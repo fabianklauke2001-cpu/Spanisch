@@ -1,0 +1,8 @@
+node_modules/
+dist/
+shots/
+build/_icon.html
+verbecc.log
+__pycache__/
+*.pyc
+Spanisch-Konzept.md

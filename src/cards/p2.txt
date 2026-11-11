@@ -1,0 +1,212 @@
+#deck d07 | Unterwegs | 2
+el bus | der Bus | El bus sale a las siete. | Der Bus fährt um sieben ab. | n | Auch: el autobús; Fernbus in Argentinien: el micro
+la terminal | der Busbahnhof | ¿Dónde está la terminal de buses? | Wo ist der Busbahnhof? | n
+la parada | die Haltestelle | La parada está en la esquina. | Die Haltestelle ist an der Ecke. | n
+el boleto | das Ticket, die Fahrkarte | Un boleto a León, por favor. | Ein Ticket nach León, bitte. | n | Auch: el pasaje, el tiquete
+ida y vuelta | hin und zurück | Un boleto de ida y vuelta. | Ein Ticket hin und zurück. | p
+el asiento | der Sitzplatz | Quiero un asiento en la ventana. | Ich möchte einen Fensterplatz. | n
+el equipaje | das Gepäck | ¿Dónde dejo el equipaje? | Wo lasse ich das Gepäck? | n
+la mochila | der Rucksack | Mi mochila pesa mucho. | Mein Rucksack ist sehr schwer. | n
+la maleta | der Koffer | Solo llevo una maleta pequeña. | Ich habe nur einen kleinen Koffer dabei. | n
+el avión | das Flugzeug | Vamos en avión. | Wir fliegen. | n
+el vuelo | der Flug | Mi vuelo sale a las diez. | Mein Flug geht um zehn. | n
+el aeropuerto | der Flughafen | ¿Cómo llego al aeropuerto? | Wie komme ich zum Flughafen? | n
+el tren | der Zug | No hay tren, solo bus. | Es gibt keinen Zug, nur einen Bus. | n
+el carro | das Auto | Alquilamos un carro. | Wir mieten ein Auto. | n | Auch: el auto (Argentinien), el coche (Spanien)
+la moto | das Motorrad | Viaja en moto. | Er reist mit dem Motorrad. | n | la moto, weil kurz für la motocicleta
+la bicicleta | das Fahrrad | Quiero alquilar una bicicleta. | Ich möchte ein Fahrrad mieten. | n
+el barco | das Schiff, das Boot | Cruzamos el lago en barco. | Wir überqueren den See mit dem Schiff. | n | Kleines Motorboot: la lancha
+el conductor, la conductora | der Fahrer, die Fahrerin | Pregúntale al conductor. | Frag den Fahrer. | n | Auch: el chofer
+la carretera | die Landstraße | La carretera está cerrada. | Die Straße ist gesperrt. | n | In Argentinien: la ruta
+la frontera | die Grenze | Cruzamos la frontera mañana. | Wir überqueren morgen die Grenze. | n
+el pasaporte | der Reisepass | Su pasaporte, por favor. | Ihren Pass, bitte. | n
+la aduana | der Zoll | Hay que pasar por la aduana. | Man muss durch den Zoll. | n
+el retraso | die Verspätung | El vuelo tiene retraso. | Der Flug hat Verspätung. | n
+la salida | die Abfahrt; der Ausgang | ¿Dónde está la salida? | Wo ist der Ausgang? | n
+la llegada | die Ankunft | La llegada es a las seis. | Die Ankunft ist um sechs. | n
+el horario | der Fahrplan; die Öffnungszeiten | ¿Tiene el horario de buses? | Haben Sie den Busfahrplan? | n
+el mapa | die Landkarte, der Stadtplan | ¿Tiene un mapa de la ciudad? | Haben Sie einen Stadtplan? | n | Achtung: el mapa (männlich)
+la gasolina | das Benzin | Necesitamos gasolina. | Wir brauchen Benzin. | n | In Argentinien: la nafta
+la gasolinera | die Tankstelle | ¿Hay una gasolinera cerca? | Gibt es eine Tankstelle in der Nähe? | n
+el tráfico | der Verkehr | Hay mucho tráfico. | Es ist viel Verkehr. | n
+¿a qué hora sale el bus? | wann fährt der Bus ab? | | | p
+¿a qué hora llegamos? | wann kommen wir an? | | | p
+¿cuánto tarda? | wie lange dauert es? | ¿Cuánto tarda el viaje? | Wie lange dauert die Fahrt? | p
+¿de dónde sale? | wo fährt er ab? | | | p
+¿este bus va a …? | fährt dieser Bus nach …? | ¿Este bus va a Tamarindo? | Fährt dieser Bus nach Tamarindo? | p
+¿dónde me bajo? | wo muss ich aussteigen? | | | p
+me bajo aquí | ich steige hier aus | | | p
+¿me avisa cuando lleguemos? | sagen Sie mir Bescheid, wenn wir da sind? | | | p
+un boleto a …, por favor | ein Ticket nach …, bitte | | | p
+
+#deck d08 | Essen & Trinken | 2
+la comida | das Essen | La comida aquí es muy rica. | Das Essen hier ist sehr lecker. | n
+el almuerzo | das Mittagessen | El almuerzo cuesta cinco dólares. | Das Mittagessen kostet fünf Dollar. | n
+la cena | das Abendessen | ¿A qué hora es la cena? | Wann gibt es Abendessen? | n
+la carta | die Speisekarte | ¿Me trae la carta? | Bringen Sie mir die Karte? | n | Auch: el menú
+la cuenta | die Rechnung | La cuenta, por favor. | Die Rechnung, bitte. | n
+la propina | das Trinkgeld | ¿La propina está incluida? | Ist das Trinkgeld inklusive? | n
+el plato | der Teller; das Gericht | ¿Cuál es el plato del día? | Was ist das Tagesgericht? | n
+el vaso | das Glas | Un vaso de agua, por favor. | Ein Glas Wasser, bitte. | n
+la taza | die Tasse | Una taza de café. | Eine Tasse Kaffee. | n
+el tenedor | die Gabel | ¿Me trae un tenedor? | Bringen Sie mir eine Gabel? | n
+el cuchillo | das Messer | Falta un cuchillo. | Es fehlt ein Messer. | n
+la cuchara | der Löffel | Necesito una cuchara. | Ich brauche einen Löffel. | n
+el agua | das Wasser | Un agua sin gas, por favor. | Ein stilles Wasser, bitte. | n | Weiblich, aber el im Singular: el agua fría, las aguas
+la cerveza | das Bier | Dos cervezas, por favor. | Zwei Bier, bitte. | n
+el vino | der Wein | Una copa de vino tinto. | Ein Glas Rotwein. | n
+el jugo | der Saft | Un jugo de naranja. | Ein Orangensaft. | n | In Spanien: el zumo
+el café | der Kaffee | Un café con leche. | Ein Milchkaffee. | n
+la leche | die Milch | Sin leche, por favor. | Ohne Milch, bitte. | n
+el pan | das Brot | ¿Me trae más pan? | Bringen Sie mir noch Brot? | n
+el arroz | der Reis | Pollo con arroz. | Hähnchen mit Reis. | n
+los frijoles | die Bohnen | Arroz con frijoles. | Reis mit Bohnen. | n | In Argentinien: los porotos
+el pollo | das Hähnchen | Quisiera el pollo. | Ich hätte gern das Hähnchen. | n
+la carne | das Fleisch | No como carne. | Ich esse kein Fleisch. | n
+el pescado | der Fisch (als Essen) | El pescado está fresco. | Der Fisch ist frisch. | n
+los mariscos | die Meeresfrüchte | Soy alérgico a los mariscos. | Ich bin allergisch gegen Meeresfrüchte. | n
+el huevo | das Ei | Huevos con pan. | Eier mit Brot. | n
+el queso | der Käse | Una empanada de queso. | Eine Käse-Empanada. | n
+la verdura | das Gemüse | Arroz con verduras. | Reis mit Gemüse. | n
+la fruta | das Obst | La fruta aquí es increíble. | Das Obst hier ist unglaublich. | n
+la papa | die Kartoffel | Papas fritas. | Pommes frites. | n | In Spanien: la patata
+el tomate | die Tomate | Ensalada de tomate. | Tomatensalat. | n
+la cebolla | die Zwiebel | Sin cebolla, por favor. | Ohne Zwiebeln, bitte. | n
+el ajo | der Knoblauch | Tiene mucho ajo. | Da ist viel Knoblauch drin. | n
+el aguacate | die Avocado | Tostada con aguacate. | Toast mit Avocado. | n | In Argentinien und Chile: la palta
+el plátano | die Banane, die Kochbanane | Plátano frito. | Gebratene Kochbanane. | n | Auch: la banana
+la sal | das Salz | ¿Me pasas la sal? | Reichst du mir das Salz? | n
+el azúcar | der Zucker | Sin azúcar. | Ohne Zucker. | n
+el hielo | das Eis (Eiswürfel) | Sin hielo, por favor. | Ohne Eis, bitte. | n
+el helado | das Eis (Speiseeis) | Un helado de chocolate. | Ein Schokoladeneis. | n
+la sopa | die Suppe | La sopa del día. | Die Tagessuppe. | n
+la ensalada | der Salat | Una ensalada mixta. | Ein gemischter Salat. | n
+el postre | der Nachtisch | ¿Qué hay de postre? | Was gibt es zum Nachtisch? | n
+picante | scharf | ¿Es picante? | Ist das scharf? | a
+dulce | süß | Es muy dulce. | Das ist sehr süß. | a
+vegetariano, -a | vegetarisch; Vegetarier | ¿Tienen platos vegetarianos? | Haben Sie vegetarische Gerichte? | a
+tengo hambre | ich habe Hunger | | | p
+tengo sed | ich habe Durst | | | p
+¿qué me recomienda? | was empfehlen Sie mir? | | | p
+quisiera … | ich hätte gern … | Quisiera el pescado con arroz. | Ich hätte gern den Fisch mit Reis. | p
+para llevar | zum Mitnehmen | Un café para llevar. | Ein Kaffee zum Mitnehmen. | p
+¡buen provecho! | guten Appetit! | | | p
+estuvo muy rico | es war sehr lecker | | | p
+una mesa para dos | ein Tisch für zwei | | | p
+sin carne | ohne Fleisch | | | p
+
+#deck d09 | Einkaufen & Geld | 2
+el dinero | das Geld | No tengo dinero. | Ich habe kein Geld dabei. | n | Umgangssprachlich in Lateinamerika: la plata
+el efectivo | das Bargeld | Solo aceptan efectivo. | Sie nehmen nur Bargeld. | n
+la tarjeta | die Karte (Kreditkarte) | ¿Aceptan tarjeta? | Nehmen Sie Karte? | n
+el cajero | der Geldautomat | El cajero no funciona. | Der Geldautomat funktioniert nicht. | n | Vollständig: el cajero automático
+el banco | die Bank | El banco abre a las nueve. | Die Bank öffnet um neun. | n
+el cambio | das Wechselgeld; der Wechsel | ¿Tiene cambio? | Haben Sie Wechselgeld? | n
+el precio | der Preis | ¿Es el precio final? | Ist das der Endpreis? | n
+el descuento | der Rabatt | ¿Me hace un descuento? | Geben Sie mir einen Rabatt? | n
+la tienda | der Laden, das Geschäft | La tienda de la esquina. | Der Laden an der Ecke. | n
+el mercado | der Markt | Compramos fruta en el mercado. | Wir kaufen Obst auf dem Markt. | n
+el supermercado | der Supermarkt | ¿Dónde hay un supermercado? | Wo gibt es einen Supermarkt? | n
+la farmacia | die Apotheke | La farmacia está cerrada. | Die Apotheke ist geschlossen. | n
+la bolsa | die Tüte, die Tasche | No necesito bolsa. | Ich brauche keine Tüte. | n
+el recibo | die Quittung | ¿Me da un recibo? | Geben Sie mir eine Quittung? | n
+la ropa | die Kleidung | Tengo que lavar mi ropa. | Ich muss meine Kleidung waschen. | n
+la camiseta | das T-Shirt | Compré una camiseta. | Ich habe ein T-Shirt gekauft. | n | In Argentinien: la remera
+los pantalones | die Hose | Unos pantalones cortos. | Eine kurze Hose. | n
+los zapatos | die Schuhe | Mis zapatos están mojados. | Meine Schuhe sind nass. | n
+la chaqueta | die Jacke | Lleva una chaqueta, hace frío. | Nimm eine Jacke mit, es ist kalt. | n | In Argentinien: la campera
+el traje de baño | die Badehose, der Badeanzug | Olvidé mi traje de baño. | Ich habe meine Badehose vergessen. | n
+los lentes de sol | die Sonnenbrille | Perdí mis lentes de sol. | Ich habe meine Sonnenbrille verloren. | n | Auch: las gafas de sol
+el protector solar | die Sonnencreme | ¿Venden protector solar? | Verkaufen Sie Sonnencreme? | n
+el repelente | das Mückenspray | Necesito repelente. | Ich brauche Mückenspray. | n
+el jabón | die Seife | No hay jabón en el baño. | Im Bad ist keine Seife. | n
+la pasta de dientes | die Zahnpasta | Busco pasta de dientes. | Ich suche Zahnpasta. | n
+el cargador | das Ladegerät | ¿Me prestas tu cargador? | Leihst du mir dein Ladegerät? | n
+el celular | das Handy | Mi celular no tiene batería. | Mein Handy hat keinen Akku mehr. | n | In Spanien: el móvil
+¿cuánto cuesta? | was kostet das? | | | p
+¿cuánto es? | wie viel macht das? | | | p
+¿tiene algo más barato? | haben Sie etwas Günstigeres? | | | p
+solo estoy mirando | ich schaue nur | | | p
+me lo llevo | ich nehme es | | | p
+¿dónde hay un cajero? | wo gibt es einen Geldautomaten? | | | p
+
+#deck d10 | Kernverben 2 | 2
+empezar | anfangen | La clase empieza a las nueve. | Der Kurs fängt um neun an. | v
+terminar | beenden, enden | ¿A qué hora termina? | Wann ist es zu Ende? | v
+abrir | öffnen | ¿A qué hora abren? | Wann machen Sie auf? | v
+cerrar | schließen | El mercado cierra a las seis. | Der Markt schließt um sechs. | v
+volver | zurückkommen | Vuelvo en una hora. | Ich bin in einer Stunde zurück. | v
+dormir | schlafen | Duermo muy bien aquí. | Ich schlafe hier sehr gut. | v
+pedir | bestellen; bitten um | Voy a pedir una cerveza. | Ich bestelle ein Bier. | v
+seguir | folgen; weitermachen | Sigue todo recto. | Geh immer geradeaus. | v
+sentir | fühlen; bedauern | Lo siento mucho. | Es tut mir sehr leid. | v
+traer | bringen, mitbringen | ¿Me trae la cuenta? | Bringen Sie mir die Rechnung? | v
+subir | hinaufgehen, einsteigen | Subimos al bus. | Wir steigen in den Bus. | v
+bajar | hinuntergehen, aussteigen | Bajo en la próxima parada. | Ich steige an der nächsten Haltestelle aus. | v
+cambiar | wechseln, ändern | Quiero cambiar dinero. | Ich möchte Geld wechseln. | v
+usar | benutzen | ¿Puedo usar la cocina? | Darf ich die Küche benutzen? | v
+ayudar | helfen | ¿Me puedes ayudar? | Kannst du mir helfen? | v
+probar | probieren, kosten | ¿Puedo probar? | Darf ich probieren? | v
+perder | verlieren; verpassen | Perdí el bus. | Ich habe den Bus verpasst. | v
+olvidar | vergessen | Olvidé mi contraseña. | Ich habe mein Passwort vergessen. | v
+recordar | sich erinnern | No recuerdo el nombre. | Ich erinnere mich nicht an den Namen. | v
+aprender | lernen | Quiero aprender a surfear. | Ich möchte surfen lernen. | v
+enseñar | beibringen; zeigen | ¿Me enseñas? | Bringst du es mir bei? | v
+leer | lesen | Leo un libro en español. | Ich lese ein Buch auf Spanisch. | v
+escribir | schreiben | ¿Puedes escribirlo? | Kannst du es aufschreiben? | v
+jugar | spielen | Jugamos al fútbol en la playa. | Wir spielen Fußball am Strand. | v
+caminar | zu Fuß gehen, wandern | Caminamos hasta el mirador. | Wir laufen bis zum Aussichtspunkt. | v
+correr | laufen, rennen | Corro por la playa. | Ich laufe am Strand entlang. | v
+nadar | schwimmen | ¿Se puede nadar aquí? | Kann man hier schwimmen? | v
+manejar | Auto fahren | ¿Sabes manejar? | Kannst du Auto fahren? | v | In Spanien: conducir
+parar | anhalten | ¿Puede parar aquí? | Können Sie hier anhalten? | v
+entrar | hineingehen | ¿Puedo entrar? | Darf ich reinkommen? | v
+mandar | schicken | Te mando un mensaje. | Ich schicke dir eine Nachricht. | v
+recibir | bekommen, empfangen | No recibí el correo. | Ich habe die E-Mail nicht bekommen. | v
+costar | kosten | ¿Cuánto cuesta la entrada? | Was kostet der Eintritt? | v
+deber | müssen, sollen; schulden | Debes probar el ceviche. | Du musst das Ceviche probieren. | v
+intentar | versuchen | Voy a intentar otra vez. | Ich versuche es noch einmal. | v
+reservar | reservieren, buchen | Quiero reservar una cama. | Ich möchte ein Bett buchen. | v
+alquilar | mieten | ¿Dónde puedo alquilar una tabla? | Wo kann ich ein Brett mieten? | v | In manchen Ländern auch rentar
+cocinar | kochen | Esta noche cocino yo. | Heute Abend koche ich. | v
+lavar | waschen | Tengo que lavar ropa. | Ich muss Wäsche waschen. | v
+limpiar | putzen, sauber machen | Limpian las habitaciones a las once. | Die Zimmer werden um elf geputzt. | v
+descansar | sich ausruhen | Hoy quiero descansar. | Heute möchte ich mich ausruhen. | v
+mostrar | zeigen | ¿Me muestra en el mapa? | Zeigen Sie es mir auf der Karte? | v
+explicar | erklären | ¿Me lo puedes explicar? | Kannst du es mir erklären? | v
+contar | erzählen; zählen | Cuéntame de tu viaje. | Erzähl mir von deiner Reise. | v
+elegir | auswählen | Puedes elegir la cama. | Du kannst dir das Bett aussuchen. | v
+cruzar | überqueren | Cruza la calle. | Geh über die Straße. | v
+doblar | abbiegen | Dobla a la derecha. | Bieg rechts ab. | v
+
+#deck d11 | Stadt & Orientierung | 2
+el centro | das Zentrum, die Innenstadt | El hostal está en el centro. | Das Hostel ist im Zentrum. | n
+la plaza | der Platz | Nos vemos en la plaza. | Wir treffen uns auf dem Platz. | n
+la iglesia | die Kirche | Enfrente de la iglesia. | Gegenüber der Kirche. | n
+el museo | das Museum | El museo abre a las diez. | Das Museum öffnet um zehn. | n
+el parque | der Park | Vamos al parque. | Wir gehen in den Park. | n
+el puente | die Brücke | Cruza el puente. | Geh über die Brücke. | n
+el edificio | das Gebäude | Es el edificio blanco. | Es ist das weiße Gebäude. | n
+el barrio | das Viertel, der Stadtteil | Es un barrio tranquilo. | Es ist ein ruhiges Viertel. | n
+la esquina | die Ecke | En la esquina hay una tienda. | An der Ecke ist ein Laden. | n
+la cuadra | der Häuserblock | Está a dos cuadras. | Es ist zwei Blocks entfernt. | n
+el semáforo | die Ampel | Dobla en el semáforo. | Bieg an der Ampel ab. | n
+la policía | die Polizei | Voy a llamar a la policía. | Ich rufe die Polizei. | n
+el hospital | das Krankenhaus | ¿Dónde está el hospital? | Wo ist das Krankenhaus? | n
+la entrada | der Eingang; die Eintrittskarte | La entrada cuesta diez dólares. | Der Eintritt kostet zehn Dollar. | n
+¿dónde está …? | wo ist …? | ¿Dónde está la playa? | Wo ist der Strand? | p
+¿cómo llego a …? | wie komme ich zu …? | ¿Cómo llego al centro? | Wie komme ich ins Zentrum? | p
+estoy perdido | ich habe mich verlaufen | | | p | Frauen sagen: estoy perdida
+a la derecha | rechts, nach rechts | La segunda calle a la derecha. | Die zweite Straße rechts. | p
+a la izquierda | links, nach links | Dobla a la izquierda. | Bieg links ab. | p
+todo recto | geradeaus | Sigue todo recto dos cuadras. | Geh zwei Blocks geradeaus. | p | Auch: derecho
+al lado de | neben | Al lado del banco. | Neben der Bank. | p
+enfrente de | gegenüber von | Enfrente del parque. | Gegenüber vom Park. | p
+detrás de | hinter | Detrás de la iglesia. | Hinter der Kirche. | p
+delante de | vor (räumlich) | Delante del hostal. | Vor dem Hostel. | p
+cerca de | in der Nähe von | Cerca de la terminal. | In der Nähe vom Busbahnhof. | p
+arriba | oben | El baño está arriba. | Das Bad ist oben. | o
+abajo | unten | Te espero abajo. | Ich warte unten auf dich. | o
+afuera | draußen | Comemos afuera. | Wir essen draußen. | o
+adentro | drinnen | Hace calor adentro. | Drinnen ist es heiß. | o
+al final de la calle | am Ende der Straße | | | p

@@ -1,0 +1,230 @@
+#deck d16 | Zeit & Planung | 2
+temprano | früh | Mañana salimos temprano. | Morgen brechen wir früh auf. | o
+tarde | spät | Ya es muy tarde. | Es ist schon sehr spät. | o | la tarde = der Nachmittag
+a tiempo | pünktlich, rechtzeitig | El bus llegó a tiempo. | Der Bus kam pünktlich. | p
+el fin de semana | das Wochenende | ¿Qué haces el fin de semana? | Was machst du am Wochenende? | n
+la semana pasada | letzte Woche | Llegué la semana pasada. | Ich bin letzte Woche angekommen. | p
+la próxima semana | nächste Woche | Me voy la próxima semana. | Ich reise nächste Woche ab. | p | Auch: la semana que viene
+anoche | gestern Abend, letzte Nacht | Anoche dormí mal. | Letzte Nacht habe ich schlecht geschlafen. | o
+pasado mañana | übermorgen | Nos vamos pasado mañana. | Wir fahren übermorgen. | p
+anteayer | vorgestern | Llegamos anteayer. | Wir sind vorgestern angekommen. | o
+hace dos días | vor zwei Tagen | Llegué hace dos días. | Ich bin vor zwei Tagen angekommen. | p
+en una hora | in einer Stunde | Vuelvo en una hora. | Ich bin in einer Stunde zurück. | p
+todos los días | jeden Tag | Surfeo todos los días. | Ich surfe jeden Tag. | p
+de vez en cuando | ab und zu | De vez en cuando cocino. | Ab und zu koche ich. | p
+al mediodía | mittags | Comemos al mediodía. | Wir essen mittags. | p
+la medianoche | die Mitternacht | Cierran a medianoche. | Sie schließen um Mitternacht. | n
+el minuto | die Minute | Cinco minutos más. | Noch fünf Minuten. | n
+el momento | der Moment | Un momento, por favor. | Einen Moment, bitte. | n
+la fecha | das Datum | ¿Qué fecha es hoy? | Welches Datum ist heute? | n
+el cumpleaños | der Geburtstag | Hoy es mi cumpleaños. | Heute ist mein Geburtstag. | n
+las vacaciones | der Urlaub, die Ferien | Estoy de vacaciones. | Ich bin im Urlaub. | n
+el feriado | der Feiertag | Mañana es feriado. | Morgen ist Feiertag. | n | In Spanien: el día festivo
+el plan | der Plan | ¿Qué planes tienes? | Was hast du vor? | n
+primero | zuerst; erster | Primero vamos al banco. | Zuerst gehen wir zur Bank. | o
+último, -a | letzter, letzte | El último bus sale a las nueve. | Der letzte Bus fährt um neun. | a
+próximo, -a | nächster, nächste | La próxima parada. | Die nächste Haltestelle. | a
+durante | während (+ Nomen) | Durante el viaje. | Während der Reise. | o
+¿a qué hora …? | um wie viel Uhr …? | ¿A qué hora abre? | Um wie viel Uhr öffnet es? | p
+¿cuánto tiempo …? | wie lange …? | ¿Cuánto tiempo te quedas? | Wie lange bleibst du? | p
+ahorita | gleich, jetzt gleich | Ahorita vengo. | Ich komme gleich. | o | Mexiko und Mittelamerika; kann auch «später» heißen
+
+#deck d12 | Surfen & Strand | 2
+la playa | der Strand | Vamos a la playa. | Wir gehen an den Strand. | n
+el mar | das Meer | El mar está tranquilo hoy. | Das Meer ist heute ruhig. | n
+la ola | die Welle | Las olas están grandes. | Die Wellen sind groß. | n
+la tabla | das Brett, das Surfbrett | ¿Dónde puedo alquilar una tabla? | Wo kann ich ein Brett mieten? | n | Vollständig: la tabla de surf
+el traje de neopreno | der Neoprenanzug | En Patagonia necesitas traje de neopreno. | In Patagonien brauchst du einen Neoprenanzug. | n
+la marea | die Gezeiten | La marea está alta. | Es ist Flut. | n | marea alta = Flut, marea baja = Ebbe
+la corriente | die Strömung | Cuidado con la corriente. | Vorsicht vor der Strömung. | n
+el viento | der Wind | Hay mucho viento. | Es ist sehr windig. | n
+la arena | der Sand | La arena está caliente. | Der Sand ist heiß. | n
+el sol | die Sonne | El sol está muy fuerte. | Die Sonne ist sehr stark. | n
+la sombra | der Schatten | Me quedo en la sombra. | Ich bleibe im Schatten. | n
+la gorra | die Kappe | Lleva una gorra. | Nimm eine Kappe mit. | n
+la clase de surf | die Surfstunde | Tengo clase de surf a las ocho. | Ich habe um acht Surfstunde. | n
+el instructor, la instructora | der Surflehrer, die Surflehrerin | El instructor es muy bueno. | Der Lehrer ist sehr gut. | n
+el principiante, la principiante | der Anfänger, die Anfängerin | Soy principiante. | Ich bin Anfänger. | n
+el nivel | das Niveau, das Level | ¿Qué nivel tienes? | Welches Level hast du? | n
+la orilla | das Ufer | Quédate cerca de la orilla. | Bleib in Ufernähe. | n
+la roca | der Fels | Hay rocas debajo del agua. | Unter Wasser sind Felsen. | n
+el arrecife | das Riff | La ola rompe sobre el arrecife. | Die Welle bricht über dem Riff. | n
+la medusa | die Qualle | Hay medusas en el agua. | Im Wasser sind Quallen. | n | Regional auch: el aguamala
+el salvavidas, la salvavidas | der Rettungsschwimmer, die Rettungsschwimmerin | No hay salvavidas en esta playa. | An diesem Strand gibt es keine Rettungsschwimmer. | n
+el atardecer | der Sonnenuntergang | Vemos el atardecer en la playa. | Wir schauen uns den Sonnenuntergang am Strand an. | n
+el amanecer | der Sonnenaufgang | Surfeamos al amanecer. | Wir surfen bei Sonnenaufgang. | n
+la quemadura | der Sonnenbrand; die Verbrennung | Tengo una quemadura en la espalda. | Ich habe einen Sonnenbrand auf dem Rücken. | n
+surfear | surfen | Quiero surfear mañana temprano. | Ich möchte morgen früh surfen. | v | Auch: hacer surf
+remar | paddeln | ¡Rema más fuerte! | Paddel kräftiger! | v
+cuidado | Vorsicht | ¡Cuidado con las rocas! | Vorsicht vor den Felsen! | p
+¿cómo están las olas hoy? | wie sind die Wellen heute? | | | p
+¿es peligroso nadar aquí? | ist es gefährlich, hier zu schwimmen? | | | p
+
+#deck d13 | Natur & Wetter | 3
+la montaña | der Berg, das Gebirge | Las montañas de Patagonia. | Die Berge Patagoniens. | n
+el cerro | der Berg, der Hügel | Subimos al cerro. | Wir steigen auf den Berg. | n
+el volcán | der Vulkan | El volcán está activo. | Der Vulkan ist aktiv. | n
+el glaciar | der Gletscher | Visitamos el glaciar Perito Moreno. | Wir besuchen den Perito-Moreno-Gletscher. | n
+el lago | der See | El lago está muy frío. | Der See ist sehr kalt. | n
+el río | der Fluss | Cruzamos el río. | Wir überqueren den Fluss. | n
+la cascada | der Wasserfall | La cascada está a una hora. | Der Wasserfall ist eine Stunde entfernt. | n | Auch: la catarata
+el bosque | der Wald | Caminamos por el bosque. | Wir wandern durch den Wald. | n
+la selva | der Dschungel, der Regenwald | Llueve mucho en la selva. | Im Regenwald regnet es viel. | n
+el sendero | der Wanderweg, der Pfad | El sendero está bien marcado. | Der Weg ist gut markiert. | n
+el camino | der Weg | ¿Es este el camino al lago? | Ist das der Weg zum See? | n
+la cima | der Gipfel | Llegamos a la cima. | Wir haben den Gipfel erreicht. | n
+el valle | das Tal | El pueblo está en el valle. | Das Dorf liegt im Tal. | n
+el mirador | der Aussichtspunkt | Desde el mirador se ve el glaciar. | Vom Aussichtspunkt sieht man den Gletscher. | n
+el parque nacional | der Nationalpark | La entrada al parque nacional. | Der Eintritt in den Nationalpark. | n
+el refugio | die Berghütte | Dormimos en un refugio. | Wir schlafen in einer Hütte. | n
+el campamento | das Zeltlager, der Campingplatz | El campamento está junto al río. | Der Zeltplatz liegt am Fluss. | n | Auch: el camping
+la carpa | das Zelt | Dormimos en carpa. | Wir schlafen im Zelt. | n | In Spanien: la tienda de campaña
+el saco de dormir | der Schlafsack | ¿Se puede alquilar un saco de dormir? | Kann man einen Schlafsack mieten? | n | In Argentinien: la bolsa de dormir
+las botas | die Wanderschuhe, die Stiefel | Mis botas están mojadas. | Meine Schuhe sind nass. | n
+la linterna | die Taschenlampe | ¿Tienes una linterna? | Hast du eine Taschenlampe? | n
+el guía, la guía | der Guide, die Führerin | El guía habla inglés. | Der Guide spricht Englisch. | n
+la caminata | die Wanderung | La caminata dura cuatro horas. | Die Wanderung dauert vier Stunden. | n | Auch: el trekking, el senderismo
+la subida | der Aufstieg | La subida es dura. | Der Aufstieg ist hart. | n
+la bajada | der Abstieg | La bajada es más fácil. | Der Abstieg ist leichter. | n
+el paisaje | die Landschaft | El paisaje es increíble. | Die Landschaft ist unglaublich. | n
+la vista | die Aussicht | ¡Qué vista! | Was für eine Aussicht! | n
+el animal | das Tier | ¿Hay animales peligrosos? | Gibt es gefährliche Tiere? | n
+el pájaro | der Vogel | Hay muchos pájaros aquí. | Hier gibt es viele Vögel. | n
+el perro | der Hund | El perro del hostal. | Der Hund vom Hostel. | n
+el caballo | das Pferd | Un paseo a caballo. | Ein Ausritt. | n
+el clima | das Klima, das Wetter | El clima cambia rápido. | Das Wetter ändert sich schnell. | n | Achtung: el clima (männlich)
+la lluvia | der Regen | Con esta lluvia no salimos. | Bei diesem Regen gehen wir nicht raus. | n
+la nieve | der Schnee | Hay nieve en la cima. | Auf dem Gipfel liegt Schnee. | n
+la nube | die Wolke | No hay ni una nube. | Es ist keine einzige Wolke da. | n
+la tormenta | das Gewitter, der Sturm | Viene una tormenta. | Ein Gewitter zieht auf. | n
+el pronóstico | die Vorhersage | ¿Cuál es el pronóstico para mañana? | Wie ist die Vorhersage für morgen? | n
+hace calor | es ist heiß | | | p
+hace frío | es ist kalt | | | p
+hace viento | es ist windig | | | p
+está lloviendo | es regnet gerade | | | p
+está nublado | es ist bewölkt | | | p
+¿cuánto dura la caminata? | wie lange dauert die Wanderung? | | | p
+¿se necesita guía? | braucht man einen Guide? | | | p
+
+#deck d14 | Gesundheit & Notfälle | 3
+el médico, la médica | der Arzt, die Ärztin | Necesito un médico. | Ich brauche einen Arzt. | n
+el dolor | der Schmerz | Tengo dolor de cabeza. | Ich habe Kopfschmerzen. | n
+la cabeza | der Kopf | Me duele la cabeza. | Mir tut der Kopf weh. | n
+el estómago | der Magen, der Bauch | Me duele el estómago. | Ich habe Bauchschmerzen. | n
+la garganta | der Hals (innen) | Me duele la garganta. | Ich habe Halsschmerzen. | n
+la espalda | der Rücken | Tengo dolor de espalda. | Ich habe Rückenschmerzen. | n
+la pierna | das Bein | Me duele la pierna. | Mir tut das Bein weh. | n
+el brazo | der Arm | Me golpeé el brazo. | Ich habe mir den Arm gestoßen. | n
+la mano | die Hand | Me corté la mano. | Ich habe mich in die Hand geschnitten. | n | Achtung: la mano (weiblich)
+el pie | der Fuß | Vamos a pie. | Wir gehen zu Fuß. | n
+la rodilla | das Knie | Me duele la rodilla. | Mir tut das Knie weh. | n
+el diente | der Zahn | Me duele un diente. | Ich habe Zahnschmerzen. | n
+la piel | die Haut | Tengo la piel quemada. | Meine Haut ist verbrannt. | n
+la fiebre | das Fieber | Tengo fiebre. | Ich habe Fieber. | n
+la tos | der Husten | Tengo tos. | Ich habe Husten. | n
+el resfriado | die Erkältung | Tengo un resfriado. | Ich bin erkältet. | n | In Argentinien: el resfrío
+la herida | die Wunde | Hay que limpiar la herida. | Die Wunde muss gesäubert werden. | n
+la sangre | das Blut | Hay un poco de sangre. | Da ist ein bisschen Blut. | n
+la pastilla | die Tablette | Una pastilla cada ocho horas. | Eine Tablette alle acht Stunden. | n
+el medicamento | das Medikament | ¿Tiene este medicamento? | Haben Sie dieses Medikament? | n
+la receta | das Rezept | ¿Necesito receta? | Brauche ich ein Rezept? | n
+el seguro | die Versicherung | Tengo seguro de viaje. | Ich habe eine Reiseversicherung. | n
+la ambulancia | der Krankenwagen | ¡Llame una ambulancia! | Rufen Sie einen Krankenwagen! | n
+la emergencia | der Notfall | Es una emergencia. | Es ist ein Notfall. | n
+el robo | der Diebstahl | Quiero denunciar un robo. | Ich möchte einen Diebstahl anzeigen. | n
+la embajada | die Botschaft | ¿Dónde está la embajada alemana? | Wo ist die deutsche Botschaft? | n
+me duele la cabeza | ich habe Kopfschmerzen | | | p
+me siento mal | mir geht es schlecht | | | p
+necesito un médico | ich brauche einen Arzt | | | p
+¡ayuda! | Hilfe! | | | p
+me robaron el celular | mir wurde das Handy gestohlen | | | p
+perdí mi pasaporte | ich habe meinen Pass verloren | | | p
+soy alérgico a … | ich bin allergisch gegen … | Soy alérgico a la penicilina. | Ich bin allergisch gegen Penicillin. | p | Frauen sagen: soy alérgica
+estoy mareado | mir ist schwindelig, mir ist übel | | | p | Frauen sagen: estoy mareada
+tengo diarrea | ich habe Durchfall | | | p
+llame a la policía | rufen Sie die Polizei | | | p
+
+#deck d15 | Kernverben 3 | 3
+levantarse | aufstehen | Me levanto a las seis para surfear. | Ich stehe um sechs auf, um zu surfen. | v
+despertarse | aufwachen | Me despierto temprano. | Ich wache früh auf. | v
+ducharse | duschen | Voy a ducharme. | Ich gehe duschen. | v
+acostarse | ins Bett gehen | Me acuesto tarde. | Ich gehe spät ins Bett. | v
+sentarse | sich setzen | ¿Puedo sentarme aquí? | Darf ich mich hierher setzen? | v
+quedarse | bleiben | Me quedo tres noches. | Ich bleibe drei Nächte. | v
+irse | weggehen, abreisen | Me voy mañana. | Ich reise morgen ab. | v
+ponerse | anziehen; werden | Me pongo la chaqueta. | Ich ziehe die Jacke an. | v
+quitarse | ausziehen | Quítate los zapatos. | Zieh die Schuhe aus. | v
+sentirse | sich fühlen | Me siento bien. | Ich fühle mich gut. | v
+divertirse | Spaß haben | Nos divertimos mucho. | Wir haben viel Spaß. | v
+preocuparse | sich Sorgen machen | No te preocupes. | Mach dir keine Sorgen. | v
+acordarse | sich erinnern | No me acuerdo del nombre. | Ich erinnere mich nicht an den Namen. | v | acordarse de algo
+caerse | hinfallen | Me caí de la tabla. | Ich bin vom Brett gefallen. | v
+perderse | sich verlaufen | Nos perdimos en el centro. | Wir haben uns im Zentrum verlaufen. | v
+enfermarse | krank werden | Me enfermé en el viaje. | Ich bin auf der Reise krank geworden. | v
+doler | wehtun | Me duele el estómago. | Mir tut der Bauch weh. | v | Wie gustar: me duele, me duelen
+encantar | sehr gefallen, lieben | Me encanta este país. | Ich liebe dieses Land. | v | Wie gustar: me encanta, me encantan
+parecer | scheinen, wirken | Me parece bien. | Finde ich gut. | v
+importar | wichtig sein, etwas ausmachen | No me importa. | Das macht mir nichts aus. | v
+faltar | fehlen | Falta una hora. | Es fehlt noch eine Stunde. | v
+molestar | stören | ¿Te molesta si abro la ventana? | Stört es dich, wenn ich das Fenster öffne? | v
+conseguir | bekommen, besorgen | ¿Dónde consigo una tarjeta SIM? | Wo bekomme ich eine SIM-Karte? | v
+prestar | leihen | ¿Me prestas tu linterna? | Leihst du mir deine Taschenlampe? | v
+devolver | zurückgeben | Tengo que devolver la tabla. | Ich muss das Brett zurückgeben. | v
+romper | kaputt machen, zerbrechen | Se rompió mi celular. | Mein Handy ist kaputtgegangen. | v
+arreglar | reparieren; regeln | ¿Lo pueden arreglar? | Können Sie das reparieren? | v
+funcionar | funktionieren | El wifi no funciona. | Das WLAN funktioniert nicht. | v
+apagar | ausschalten | Apaga la luz, por favor. | Mach bitte das Licht aus. | v
+prender | einschalten | ¿Puedes prender el ventilador? | Kannst du den Ventilator anmachen? | v | In Spanien: encender
+cargar | laden (Akku); tragen | Necesito cargar mi celular. | Ich muss mein Handy laden. | v
+sacar | herausnehmen; (Fotos) machen | ¿Nos sacas una foto? | Machst du ein Foto von uns? | v
+compartir | teilen | Compartimos un taxi. | Wir teilen uns ein Taxi. | v
+invitar | einladen | Te invito a una cerveza. | Ich lade dich auf ein Bier ein. | v
+bailar | tanzen | ¿Quieres bailar? | Möchtest du tanzen? | v
+cantar | singen | Canta muy bien. | Sie singt sehr gut. | v
+reír | lachen | Nos reímos mucho. | Wir lachen viel. | v
+oír | hören | No te oigo bien. | Ich höre dich nicht gut. | v
+llover | regnen | Llueve mucho en la selva. | Im Regenwald regnet es viel. | v
+tener que | müssen | Tengo que irme. | Ich muss los. | p | tener que + Infinitiv
+hay que | man muss | Hay que pagar en efectivo. | Man muss bar zahlen. | p | hay que + Infinitiv
+acabar de | gerade etwas getan haben | Acabo de llegar. | Ich bin gerade angekommen. | p | acabar de + Infinitiv
+
+#deck d18 | Probleme lösen | 2
+hay un problema con … | es gibt ein Problem mit … | Hay un problema con mi reserva. | Es gibt ein Problem mit meiner Buchung. | p
+no funciona | es funktioniert nicht | La ducha no funciona. | Die Dusche funktioniert nicht. | p
+está roto | es ist kaputt | El candado está roto. | Das Schloss ist kaputt. | p | Bei weiblichen Nomen: está rota
+me equivoqué | ich habe mich geirrt | Perdón, me equivoqué de bus. | Entschuldigung, ich habe den falschen Bus genommen. | p
+creo que hay un error | ich glaube, da ist ein Fehler | Creo que hay un error en la cuenta. | Ich glaube, in der Rechnung ist ein Fehler. | p
+¿me puede ayudar? | können Sie mir helfen? | | | p
+¿podría …? | könnten Sie …? | ¿Podría hablar más despacio? | Könnten Sie langsamer sprechen? | p
+¿qué puedo hacer? | was kann ich tun? | | | p
+¿hay otra opción? | gibt es eine andere Möglichkeit? | | | p
+quiero cambiar mi reserva | ich möchte meine Buchung ändern | | | p
+quiero cancelar | ich möchte stornieren | | | p
+¿me devuelven el dinero? | bekomme ich das Geld zurück? | | | p
+el reembolso | die Rückerstattung | Quiero pedir un reembolso. | Ich möchte eine Rückerstattung beantragen. | n
+se canceló el vuelo | der Flug wurde gestrichen | | | p
+se me olvidó … | ich habe … vergessen | Se me olvidó la llave. | Ich habe den Schlüssel vergessen. | p
+no tengo señal | ich habe kein Netz | | | p
+se me acabó la batería | mein Akku ist leer | | | p
+¿me presta …? | leihen Sie mir …? | ¿Me presta un bolígrafo? | Leihen Sie mir einen Kugelschreiber? | p
+¿puede escribirlo, por favor? | können Sie es bitte aufschreiben? | | | p
+no es lo que pedí | das habe ich nicht bestellt | | | p
+falta … | es fehlt … | Falta una toalla. | Es fehlt ein Handtuch. | p
+¿cuánto tiempo va a tardar? | wie lange wird es dauern? | | | p
+es urgente | es ist dringend | | | p
+no se preocupe | machen Sie sich keine Sorgen | | | p
+la queja | die Beschwerde | Quiero poner una queja. | Ich möchte mich beschweren. | n
+el error | der Fehler | Fue un error. | Das war ein Fehler. | n
+¿con quién puedo hablar? | mit wem kann ich sprechen? | | | p
+
+#deck d20 | Mittelamerika | 3
+pura vida | alles gut, entspannt (Costa Rica) | —¿Cómo estás? —¡Pura vida! | – Wie geht's? – Alles bestens! | p | Gruß, Dank und Lebensgefühl in einem
+mae | Kumpel, Alter (Costa Rica) | ¿Qué tal, mae? | Wie läuft's, Alter? | o
+tuanis | cool, super (Costa Rica, Nicaragua) | ¡Qué tuanis! | Wie cool! | a
+¡qué chiva! | wie cool! (Costa Rica) | | | p
+con gusto | gern geschehen (Costa Rica, Kolumbien) | —Gracias. —Con gusto. | – Danke. – Gern geschehen. | p
+la soda | das einfache Lokal (Costa Rica) | Comemos en una soda. | Wir essen in einem einfachen Lokal. | n
+el casado | das Tellergericht mit Reis, Bohnen und Beilagen (Costa Rica) | Un casado con pollo. | Ein Casado mit Hähnchen. | n
+el gallo pinto | Reis mit Bohnen (Costa Rica, Nicaragua) | Desayuno gallo pinto con huevos. | Ich frühstücke Gallo Pinto mit Eiern. | n
+la pupusa | die gefüllte Maistortilla (El Salvador) | Dos pupusas de queso. | Zwei Käse-Pupusas. | n
+el tico, la tica | der Costa-Ricaner, die Costa-Ricanerin | Los ticos son muy amables. | Die Costa-Ricaner sind sehr nett. | n | Umgangssprachlich

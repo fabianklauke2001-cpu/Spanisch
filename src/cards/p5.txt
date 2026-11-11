@@ -1,0 +1,332 @@
+#deck d21 | Häufigste Wörter 1 | 1
+como | wie; da, weil | Es como en las fotos. | Es ist wie auf den Fotos. | o
+usted | Sie (höfliche Anrede) | ¿Y usted? | Und Sie? | o | Verb in der 3. Person. Mehrzahl: ustedes, in Lateinamerika auch für «ihr»
+algún, alguno | irgendein, einige | ¿Tienes alguna idea? | Hast du irgendeine Idee? | o | algún vor männlichem Nomen: algún día
+ningún, ninguno | kein, keiner | No tengo ningún problema. | Ich habe kein Problem. | o | ningún vor männlichem Nomen
+tan | so (vor Adjektiv) | ¡Es tan bonito! | Es ist so schön! | o
+tanto | so viel | No tanto, gracias. | Nicht so viel, danke. | o
+ahí | da, dort | Ahí está. | Da ist es. | o
+donde | wo (im Nebensatz) | El pueblo donde vivo. | Das Dorf, in dem ich wohne. | o
+quien | wer, der (im Nebensatz) | El amigo con quien viajo. | Der Freund, mit dem ich reise. | o
+aún | noch, immer noch | Aún no lo sé. | Ich weiß es noch nicht. | o
+contra | gegen | Argentina juega contra Brasil. | Argentinien spielt gegen Brasilien. | o
+hacia | in Richtung, nach | Caminamos hacia el lago. | Wir laufen in Richtung See. | o
+dentro | innen; innerhalb | Vuelvo dentro de una hora. | Ich bin in einer Stunde zurück. | o
+fuera | außen; außerhalb | Estoy fuera de la ciudad. | Ich bin außerhalb der Stadt. | o
+sino | sondern | No es caro, sino barato. | Es ist nicht teuer, sondern günstig. | o
+incluso | sogar | Hace calor incluso de noche. | Es ist sogar nachts heiß. | o
+según | laut, je nach | Según el mapa, estamos cerca. | Laut Karte sind wir in der Nähe. | o
+cualquier | irgendein, jeder beliebige | En cualquier momento. | Jederzeit. | o
+realmente | wirklich | Es realmente bonito. | Es ist wirklich schön. | o
+la parte | der Teil | ¿De qué parte de Alemania eres? | Aus welchem Teil Deutschlands kommst du? | n
+el mundo | die Welt | Todo el mundo lo sabe. | Jeder weiß das. | n
+el tipo | die Art, der Typ | ¿Qué tipo de música te gusta? | Welche Art Musik magst du? | n
+el caso | der Fall | En ese caso, vamos mañana. | In dem Fall gehen wir morgen. | n
+la forma | die Form, die Art und Weise | De todas formas, gracias. | Trotzdem danke. | n
+la manera | die Art und Weise | De ninguna manera. | Auf keinen Fall. | n
+el punto | der Punkt | Buen punto. | Guter Punkt. | n
+la historia | die Geschichte | Es una larga historia. | Das ist eine lange Geschichte. | n
+el amor | die Liebe | Una historia de amor. | Eine Liebesgeschichte. | n
+el medio | die Mitte; das Mittel | En medio de la plaza. | Mitten auf dem Platz. | n
+el equipo | das Team; die Ausrüstung | ¿Cuál es tu equipo? | Welche ist deine Mannschaft? | n
+el cuerpo | der Körper | Me duele todo el cuerpo. | Mir tut der ganze Körper weh. | n
+el jefe, la jefa | der Chef, die Chefin | Mi jefe es muy amable. | Mein Chef ist sehr nett. | n
+el gobierno | die Regierung | El gobierno cambió las reglas. | Die Regierung hat die Regeln geändert. | n
+la tierra | die Erde, das Land | Es tierra de volcanes. | Das ist Vulkanland. | n
+el grupo | die Gruppe | Viajamos en grupo. | Wir reisen in der Gruppe. | n
+el juego | das Spiel | Es solo un juego. | Es ist nur ein Spiel. | n
+el corazón | das Herz | De todo corazón. | Von ganzem Herzen. | n
+el señor, la señora | der Herr, die Dame | Disculpe, señora. | Entschuldigen Sie. | n
+el hecho | die Tatsache | De hecho, es más barato. | Tatsächlich ist es günstiger. | n
+el papá, la mamá | der Papa, die Mama | Mi mamá me llama cada semana. | Meine Mama ruft mich jede Woche an. | n
+el tío, la tía | der Onkel, die Tante | Mi tío vive en Chile. | Mein Onkel lebt in Chile. | n
+el esposo, la esposa | der Ehemann, die Ehefrau | Viaja con su esposa. | Er reist mit seiner Frau. | n
+único, -a | einzig; einzigartig | Es la única opción. | Das ist die einzige Möglichkeit. | a
+propio, -a | eigen | Tengo mi propia tabla. | Ich habe mein eigenes Brett. | a
+mayor | älter; größer | Mi hermano mayor. | Mein älterer Bruder. | a
+genial | super, genial | ¡Genial! | Super! | a
+loco, -a | verrückt | ¡Estás loco! | Du bist verrückt! | a
+junto, -a | zusammen | Viajamos juntos. | Wir reisen zusammen. | a
+medio, -a | halb | Media hora. | Eine halbe Stunde. | a
+tratar | versuchen; behandeln | Trato de hablar solo español. | Ich versuche, nur Spanisch zu sprechen. | v | tratar de + Infinitiv
+morir | sterben | Me muero de hambre. | Ich sterbe vor Hunger. | v
+suponer | annehmen, vermuten | Supongo que sí. | Ich nehme es an. | v
+mantener | halten, beibehalten | Mantén la calma. | Bleib ruhig. | v
+ganar | gewinnen; verdienen | ¿Quién ganó el partido? | Wer hat das Spiel gewonnen? | v
+ocurrir | geschehen; einfallen | ¿Qué ocurrió? | Was ist passiert? | v
+permitir | erlauben | ¿Me permite pasar? | Darf ich vorbei? | v
+enviar | schicken, senden | Te envío la dirección. | Ich schicke dir die Adresse. | v
+acercarse | sich nähern | Acércate. | Komm näher. | v
+mover | bewegen | No te muevas. | Beweg dich nicht. | v
+comenzar | anfangen | La película comienza a las ocho. | Der Film fängt um acht an. | v | Gleichbedeutend mit empezar
+regresar | zurückkehren | Regreso en diez minutos. | Ich bin in zehn Minuten zurück. | v | In Lateinamerika häufiger als volver
+echar | werfen, hineintun | Échale un poco de sal. | Tu ein bisschen Salz dran. | v
+tocar | berühren; (Instrument) spielen | Me toca a mí. | Ich bin dran. | v
+meter | hineinstecken | Mete la ropa en la mochila. | Steck die Kleidung in den Rucksack. | v
+decidir | entscheiden | Todavía no he decidido. | Ich habe mich noch nicht entschieden. | v
+
+#deck d22 | Häufigste Wörter 2 | 3
+adiós | auf Wiedersehen | | | o
+adelante | vorwärts; herein! | ¡Adelante! | Herein! | o
+atrás | hinten, zurück | Me siento atrás. | Ich setze mich nach hinten. | o
+exactamente | genau | Exactamente. | Genau. | o
+probablemente | wahrscheinlich | Probablemente llueva. | Wahrscheinlich regnet es. | o
+simplemente | einfach | Simplemente no entiendo. | Ich verstehe es einfach nicht. | o
+varios, varias | mehrere | Me quedo varios días. | Ich bleibe mehrere Tage. | o
+el libro | das Buch | Leo un libro sobre Argentina. | Ich lese ein Buch über Argentinien. | n
+el miedo | die Angst | Tengo miedo. | Ich habe Angst. | n
+la relación | die Beziehung | Tienen una buena relación. | Sie haben eine gute Beziehung. | n
+el derecho | das Recht | Tienes derecho a un reembolso. | Du hast ein Recht auf Rückerstattung. | n
+la prueba | der Test; der Beweis | Es una prueba difícil. | Das ist ein schwerer Test. | n
+la fuerza | die Kraft | No tengo fuerza en los brazos. | Ich habe keine Kraft in den Armen. | n
+el sistema | das System | El sistema no funciona. | Das System funktioniert nicht. | n | Achtung: el sistema (männlich)
+el paso | der Schritt | Paso a paso. | Schritt für Schritt. | n
+la fiesta | die Party, das Fest | Hay una fiesta en la playa. | Am Strand ist eine Party. | n
+la escuela | die Schule | La escuela de surf. | Die Surfschule. | n
+la oportunidad | die Gelegenheit, die Chance | Es una buena oportunidad. | Das ist eine gute Gelegenheit. | n
+la situación | die Situation | La situación es complicada. | Die Lage ist kompliziert. | n
+la ley | das Gesetz | Es la ley. | So ist das Gesetz. | n
+el teléfono | das Telefon | ¿Cuál es tu número de teléfono? | Wie ist deine Telefonnummer? | n
+el servicio | der Service, die Dienstleistung | El servicio es muy bueno. | Der Service ist sehr gut. | n
+la seguridad | die Sicherheit | Por seguridad. | Aus Sicherheitsgründen. | n
+el dólar | der Dollar | Cuesta diez dólares. | Es kostet zehn Dollar. | n
+la película | der Film | Vemos una película. | Wir schauen einen Film. | n
+la información | die Information | Necesito más información. | Ich brauche mehr Informationen. | n
+el cielo | der Himmel | El cielo está despejado. | Der Himmel ist klar. | n
+el negocio | das Geschäft | Tiene su propio negocio. | Er hat sein eigenes Geschäft. | n
+el sueño | der Traum; die Müdigkeit | Tengo sueño. | Ich bin müde. | n
+la voz | die Stimme | Habla en voz baja. | Sprich leise. | n
+la foto | das Foto | ¿Nos sacas una foto? | Machst du ein Foto von uns? | n | Achtung: la foto (weiblich)
+el par | das Paar | Un par de días. | Ein paar Tage. | n
+la paz | der Frieden | Déjame en paz. | Lass mich in Ruhe. | n
+la culpa | die Schuld | No es mi culpa. | Das ist nicht meine Schuld. | n
+la noticia | die Nachricht, die Neuigkeit | ¡Buenas noticias! | Gute Nachrichten! | n
+la música | die Musik | Música en vivo. | Livemusik. | n
+el resto | der Rest | El resto del viaje. | Der Rest der Reise. | n
+el programa | das Programm | ¿Cuál es el programa de hoy? | Was ist das Programm für heute? | n | Achtung: el programa (männlich)
+el sitio | der Ort, der Platz | Es un buen sitio para comer. | Das ist ein guter Ort zum Essen. | n
+el campo | das Land; das Feld | Vive en el campo. | Er lebt auf dem Land. | n
+el abuelo, la abuela | der Großvater, die Großmutter | Mis abuelos viven cerca. | Meine Großeltern wohnen in der Nähe. | n
+la oficina | das Büro | La oficina de turismo. | Die Touristeninformation. | n
+la línea | die Linie | La línea de buses. | Die Buslinie. | n
+el papel | das Papier; die Rolle | No hay papel higiénico. | Es gibt kein Toilettenpapier. | n
+el principio | der Anfang; das Prinzip | Al principio fue difícil. | Am Anfang war es schwer. | n
+la empresa | die Firma | Trabajo en una empresa grande. | Ich arbeite in einer großen Firma. | n
+el ejemplo | das Beispiel | Por ejemplo. | Zum Beispiel. | n
+el cuarto | das Zimmer; das Viertel | Un cuarto doble. | Ein Doppelzimmer. | n
+la decisión | die Entscheidung | Es tu decisión. | Es ist deine Entscheidung. | n
+el fuego | das Feuer | ¿Tienes fuego? | Hast du Feuer? | n
+el tema | das Thema | Cambiemos de tema. | Wechseln wir das Thema. | n | Achtung: el tema (männlich)
+el mensaje | die Nachricht | Te mando un mensaje. | Ich schicke dir eine Nachricht. | n
+el resultado | das Ergebnis | ¿Cuál fue el resultado? | Wie war das Ergebnis? | n
+el futuro | die Zukunft | En el futuro. | In Zukunft. | n
+el compañero, la compañera | der Begleiter, die Kollegin | Mi compañero de viaje. | Mein Reisebegleiter. | n
+la atención | die Aufmerksamkeit | ¡Atención! | Achtung! | n
+la zona | die Gegend, die Zone | Es una zona tranquila. | Das ist eine ruhige Gegend. | n
+justo, -a | gerecht; genau | Llegamos justo a tiempo. | Wir kamen genau rechtzeitig. | a
+suficiente | genug, ausreichend | Es suficiente, gracias. | Das reicht, danke. | a
+fuerte | stark; laut | El viento está fuerte. | Der Wind ist stark. | a
+vivo, -a | lebendig; live | Música en vivo. | Livemusik. | a
+blanco, -a | weiß | Vino blanco. | Weißwein. | a
+negro, -a | schwarz | Café negro. | Schwarzer Kaffee. | a
+real | echt, wirklich | Es una historia real. | Das ist eine wahre Geschichte. | a
+extraño, -a | seltsam, fremd | Es un poco extraño. | Das ist ein bisschen seltsam. | a
+especial | besonders | Hoy es un día especial. | Heute ist ein besonderer Tag. | a
+correcto, -a | richtig, korrekt | ¿Es correcto? | Ist das richtig? | a
+necesario, -a | nötig | No es necesario. | Das ist nicht nötig. | a
+perfecto, -a | perfekt | ¡Perfecto! | Perfekt! | a
+raro, -a | komisch; selten | ¡Qué raro! | Wie komisch! | a
+verdadero, -a | wahr, echt | Un verdadero amigo. | Ein echter Freund. | a
+pobre | arm | Es un país pobre. | Es ist ein armes Land. | a
+presentar | vorstellen; präsentieren | Te presento a mi amigo. | Ich stelle dir meinen Freund vor. | v
+existir | existieren | Eso no existe. | Das gibt es nicht. | v
+servir | dienen; servieren | ¿Para qué sirve? | Wozu dient das? | v
+salvar | retten | Me salvaste la vida. | Du hast mir das Leben gerettet. | v
+aceptar | annehmen, akzeptieren | ¿Aceptan dólares? | Nehmen Sie Dollar? | v
+amar | lieben | Amo este lugar. | Ich liebe diesen Ort. | v
+vender | verkaufen | ¿Dónde venden boletos? | Wo werden Tickets verkauft? | v
+aparecer | erscheinen, auftauchen | Mi reserva no aparece. | Meine Buchung taucht nicht auf. | v
+casarse | heiraten | Se casan en mayo. | Sie heiraten im Mai. | v
+lograr | schaffen, erreichen | ¡Lo logré! | Ich habe es geschafft! | v
+prometer | versprechen | Te lo prometo. | Ich verspreche es dir. | v
+descubrir | entdecken | Descubrimos una playa vacía. | Wir haben einen leeren Strand entdeckt. | v
+andar | gehen, laufen | Ando en bicicleta. | Ich fahre Fahrrad. | v
+sonar | klingen; klingeln | Suena bien. | Klingt gut. | v
+imaginar | sich vorstellen | Me lo imagino. | Das kann ich mir vorstellen. | v
+confiar | vertrauen | Confío en ti. | Ich vertraue dir. | v
+ofrecer | anbieten | Ofrecen clases de surf. | Sie bieten Surfkurse an. | v
+desear | wünschen | ¿Qué desea? | Was wünschen Sie? | v
+preparar | vorbereiten, zubereiten | Preparo el desayuno. | Ich mache Frühstück. | v
+desaparecer | verschwinden | Mi mochila desapareció. | Mein Rucksack ist verschwunden. | v
+mentir | lügen | No me mientas. | Lüg mich nicht an. | v
+tirar | werfen; wegwerfen; ziehen | ¿Dónde tiro la basura? | Wo werfe ich den Müll hin? | v
+continuar | weitermachen | Continuamos mañana. | Wir machen morgen weiter. | v
+responder | antworten | No responde. | Er antwortet nicht. | v
+evitar | vermeiden | Evita el sol del mediodía. | Meide die Mittagssonne. | v
+
+#deck d23 | Häufigste Wörter 3 | 4
+encima | oben drauf; obendrein | Está encima de la mesa. | Es liegt auf dem Tisch. | o
+alrededor | ringsum; ungefähr | Llego alrededor de las ocho. | Ich komme gegen acht. | o
+apenas | kaum | Apenas hablo portugués. | Ich spreche kaum Portugiesisch. | o
+jamás | niemals | Jamás lo olvidaré. | Das werde ich nie vergessen. | o
+los demás | die anderen, die übrigen | ¿Dónde están los demás? | Wo sind die anderen? | o
+la duda | der Zweifel | Sin duda. | Ohne Zweifel. | n
+el valor | der Wert; der Mut | Tiene mucho valor. | Es ist viel wert. | n
+el profesor, la profesora | der Lehrer, die Lehrerin | Mi profesora de español. | Meine Spanischlehrerin. | n
+la reunión | das Treffen, die Besprechung | Tengo una reunión. | Ich habe eine Besprechung. | n
+la boca | der Mund | Abre la boca. | Mach den Mund auf. | n
+la cámara | die Kamera | Olvidé mi cámara. | Ich habe meine Kamera vergessen. | n
+el espacio | der Platz, der Raum | No hay espacio en el bus. | Im Bus ist kein Platz. | n
+la universidad | die Universität | Estudié en la universidad de Múnich. | Ich habe an der Uni München studiert. | n
+el consejo | der Rat, der Tipp | ¿Me das un consejo? | Gibst du mir einen Tipp? | n
+el daño | der Schaden | ¿Te hiciste daño? | Hast du dir wehgetan? | n
+el proyecto | das Projekt | Trabajo en un proyecto nuevo. | Ich arbeite an einem neuen Projekt. | n
+la carrera | das Rennen; das Studium | Terminé mi carrera este año. | Ich habe mein Studium dieses Jahr abgeschlossen. | n
+el siglo | das Jahrhundert | Una iglesia del siglo dieciocho. | Eine Kirche aus dem 18. Jahrhundert. | n
+la mayoría | die Mehrheit | La mayoría de la gente. | Die meisten Leute. | n
+el interés | das Interesse | Tengo mucho interés. | Ich habe großes Interesse. | n
+la libertad | die Freiheit | Me gusta la libertad de viajar solo. | Ich mag die Freiheit, allein zu reisen. | n
+el color | die Farbe | ¿De qué color es? | Welche Farbe hat es? | n
+la caja | die Kiste; die Kasse | Pague en la caja. | Zahlen Sie an der Kasse. | n
+el cliente, la clienta | der Kunde, die Kundin | Solo para clientes. | Nur für Kunden. | n
+la causa | die Ursache, der Grund | A causa de la lluvia. | Wegen des Regens. | n
+la cita | die Verabredung, der Termin | Tengo una cita con el médico. | Ich habe einen Arzttermin. | n
+la estrella | der Stern | Se ven muchas estrellas. | Man sieht viele Sterne. | n
+la mitad | die Hälfte | La mitad del precio. | Der halbe Preis. | n
+la canción | das Lied | Me encanta esta canción. | Ich liebe dieses Lied. | n
+la opinión | die Meinung | En mi opinión. | Meiner Meinung nach. | n
+la experiencia | die Erfahrung | Fue una gran experiencia. | Es war eine tolle Erfahrung. | n
+la diferencia | der Unterschied | ¿Cuál es la diferencia? | Was ist der Unterschied? | n
+el pelo | das Haar | Tiene el pelo largo. | Sie hat lange Haare. | n
+el silencio | die Stille | Silencio, por favor. | Ruhe, bitte. | n
+el accidente | der Unfall | Hubo un accidente en la ruta. | Auf der Straße gab es einen Unfall. | n
+el regalo | das Geschenk | Busco un regalo para mi hermana. | Ich suche ein Geschenk für meine Schwester. | n
+la enfermedad | die Krankheit | Es una enfermedad común. | Das ist eine häufige Krankheit. | n
+divertido, -a | lustig, unterhaltsam | Fue muy divertido. | Es war sehr lustig. | a
+principal | Haupt-, wichtigster | La calle principal. | Die Hauptstraße. | a
+antiguo, -a | alt, antik; ehemalig | La ciudad antigua. | Die Altstadt. | a
+distinto, -a | verschieden, anders | Es distinto aquí. | Hier ist es anders. | a
+rojo, -a | rot | La bandera roja. | Die rote Flagge. | a
+verde | grün | Todo está muy verde. | Alles ist sehr grün. | a
+amarillo, -a | gelb | El bus amarillo. | Der gelbe Bus. | a
+azul | blau | El agua es azul. | Das Wasser ist blau. | a
+completo, -a | vollständig; ausgebucht | El hostal está completo. | Das Hostel ist ausgebucht. | a
+maravilloso, -a | wunderbar | Un lugar maravilloso. | Ein wunderbarer Ort. | a
+imposible | unmöglich | Es imposible. | Das ist unmöglich. | a
+común | üblich; gemeinsam | Es muy común aquí. | Das ist hier ganz üblich. | a
+interesante | interessant | ¡Qué interesante! | Wie interessant! | a
+simple | einfach, schlicht | Es muy simple. | Es ist ganz einfach. | a
+equivocado, -a | falsch, im Irrtum | Estás equivocado. | Du irrst dich. | a
+capaz | fähig | No soy capaz. | Ich schaffe das nicht. | a
+reconocer | erkennen; anerkennen | No te reconocí. | Ich habe dich nicht erkannt. | v
+cumplir | erfüllen; (Jahre) alt werden | Cumplo veintiséis en marzo. | Ich werde im März sechsundzwanzig. | v
+comprender | verstehen, begreifen | No comprendo. | Ich verstehe nicht. | v
+llorar | weinen | No llores. | Wein nicht. | v
+preferir | bevorzugen | Prefiero el bus. | Ich nehme lieber den Bus. | v
+proteger | schützen | Protégete del sol. | Schütz dich vor der Sonne. | v
+sufrir | leiden | Sufro con este calor. | Ich leide bei dieser Hitze. | v
+crear | erschaffen, erstellen | Creé una cuenta. | Ich habe ein Konto erstellt. | v
+recoger | abholen; aufheben | ¿Me pueden recoger en el aeropuerto? | Können Sie mich am Flughafen abholen? | v
+volar | fliegen | Vuelo a Buenos Aires. | Ich fliege nach Buenos Aires. | v
+crecer | wachsen, aufwachsen | Crecí en un pueblo. | Ich bin in einem Dorf aufgewachsen. | v
+alcanzar | erreichen; reichen | No alcanza el dinero. | Das Geld reicht nicht. | v
+entregar | übergeben, abgeben | Entrego la llave mañana. | Ich gebe den Schlüssel morgen ab. | v
+acompañar | begleiten | ¿Me acompañas? | Kommst du mit? | v
+recuperar | zurückbekommen; sich erholen | Recuperé mi mochila. | Ich habe meinen Rucksack zurückbekommen. | v
+cortar | schneiden | Me corté el dedo. | Ich habe mir in den Finger geschnitten. | v
+estudiar | studieren, lernen | Estudio español todos los días. | Ich lerne jeden Tag Spanisch. | v
+resolver | lösen | Ya lo resolvimos. | Wir haben es schon gelöst. | v
+guardar | aufbewahren; speichern | ¿Puede guardar mi mochila? | Können Sie meinen Rucksack aufbewahren? | v
+nacer | geboren werden | Nací en Alemania. | Ich bin in Deutschland geboren. | v
+averiguar | herausfinden | Voy a averiguar el horario. | Ich finde den Fahrplan heraus. | v
+gritar | schreien | No grites. | Schrei nicht. | v
+contestar | antworten; rangehen | No contesta el teléfono. | Er geht nicht ans Telefon. | v
+agradecer | danken | Te lo agradezco mucho. | Ich danke dir sehr dafür. | v
+disfrutar | genießen | ¡Disfruta el viaje! | Genieß die Reise! | v
+odiar | hassen | Odio los mosquitos. | Ich hasse Mücken. | v
+revisar | überprüfen, durchsehen | Revisa tu correo. | Schau in deine E-Mails. | v
+
+general | allgemein | En general, todo bien. | Im Allgemeinen alles gut. | a
+público, -a | öffentlich | El transporte público. | Die öffentlichen Verkehrsmittel. | a
+siguiente | nächster, folgender | El siguiente bus sale a las tres. | Der nächste Bus fährt um drei. | a
+hermoso, -a | wunderschön | ¡Qué hermoso! | Wie wunderschön! | a
+lindo, -a | schön, hübsch, nett | ¡Qué lindo día! | Was für ein schöner Tag! | a | In Lateinamerika häufiger als bonito
+el sentido | der Sinn; die Richtung | No tiene sentido. | Das ergibt keinen Sinn. | n
+el orden | die Ordnung, die Reihenfolge | Todo está en orden. | Alles ist in Ordnung. | n
+el partido | das Spiel (Sport); die Partei | ¿Viste el partido? | Hast du das Spiel gesehen? | n
+el recuerdo | die Erinnerung; das Souvenir | Compré un recuerdo para mi hermana. | Ich habe ein Souvenir für meine Schwester gekauft. | n
+la dirección | die Adresse; die Richtung | ¿Cuál es la dirección del hostal? | Wie ist die Adresse des Hostels? | n
+el fondo | der Hintergrund; der Boden | El baño está al fondo a la derecha. | Die Toilette ist hinten rechts. | n
+el secreto | das Geheimnis | Es un secreto. | Das ist ein Geheimnis. | n
+el bebé | das Baby | Viajan con un bebé. | Sie reisen mit einem Baby. | n
+a través de | durch, über | Reservé a través de la página. | Ich habe über die Website gebucht. | p
+a pesar de | trotz | A pesar de la lluvia, salimos. | Trotz des Regens gehen wir raus. | p
+a partir de | ab (zeitlich) | A partir de mañana. | Ab morgen. | p
+suceder | geschehen | ¿Qué sucedió? | Was ist geschehen? | v
+soler | etwas normalerweise tun | Suelo desayunar a las ocho. | Ich frühstücke normalerweise um acht. | v | soler + Infinitiv
+utilizar | benutzen, verwenden | ¿Puedo utilizar el wifi? | Darf ich das WLAN benutzen? | v | Gleichbedeutend mit usar
+realizar | durchführen, verwirklichen | Realizamos la caminata en cinco horas. | Wir haben die Wanderung in fünf Stunden gemacht. | v
+obtener | bekommen, erhalten | ¿Dónde obtengo el permiso? | Wo bekomme ich die Genehmigung? | v
+resultar | sich herausstellen, ergeben | Resultó más fácil de lo que pensaba. | Es war leichter als gedacht. | v
+considerar | halten für; berücksichtigen | Lo voy a considerar. | Ich werde es mir überlegen. | v
+convertir | verwandeln, umwandeln | El pueblo se convirtió en ciudad. | Das Dorf wurde zur Stadt. | v
+escapar | entkommen, fliehen | Quiero escapar del frío. | Ich möchte der Kälte entkommen. | v
+bastar | genügen | ¡Basta! | Es reicht! | v
+
+#deck d24 | Häufigste Wörter 4 | 4
+finalmente | schließlich, endlich | Finalmente llegamos. | Endlich sind wir angekommen. | o
+completamente | völlig | Estoy completamente de acuerdo. | Ich stimme völlig zu. | o
+totalmente | total, völlig | Totalmente. | Total. | o
+especialmente | besonders | Me gusta la comida, especialmente el ceviche. | Ich mag das Essen, besonders das Ceviche. | o
+el motivo | der Grund, der Anlass | ¿Cuál es el motivo de su viaje? | Was ist der Grund Ihrer Reise? | n
+la flor | die Blume | Hay flores por todas partes. | Überall sind Blumen. | n
+la boda | die Hochzeit | Voy a una boda en abril. | Ich gehe im April auf eine Hochzeit. | n
+el éxito | der Erfolg | ¡Mucho éxito! | Viel Erfolg! | n
+el peligro | die Gefahr | No hay peligro. | Es besteht keine Gefahr. | n
+el golpe | der Schlag, der Stoß | Me di un golpe en la cabeza. | Ich habe mir den Kopf gestoßen. | n
+el placer | das Vergnügen | Es un placer. | Es ist mir ein Vergnügen. | n
+el norte | der Norden | Vamos hacia el norte. | Wir fahren nach Norden. | n
+el sur | der Süden | El sur de Argentina. | Der Süden Argentiniens. | n
+el este | der Osten | La costa este. | Die Ostküste. | n
+el oeste | der Westen | El sol se pone en el oeste. | Die Sonne geht im Westen unter. | n
+la visita | der Besuch | Estoy de visita. | Ich bin zu Besuch. | n
+la broma | der Scherz | Es una broma. | Das ist ein Scherz. | n
+la sorpresa | die Überraschung | ¡Qué sorpresa! | Was für eine Überraschung! | n
+la regla | die Regel | Las reglas del hostal. | Die Hostelregeln. | n
+la cantidad | die Menge | Una gran cantidad de gente. | Eine große Menge Leute. | n
+el riesgo | das Risiko | Es un riesgo. | Das ist ein Risiko. | n
+el dedo | der Finger | Me corté el dedo. | Ich habe mir in den Finger geschnitten. | n
+el peso | das Gewicht; der Peso | ¿Cuántos pesos cuesta? | Wie viele Pesos kostet es? | n
+la época | die Zeit, die Epoche | En esta época llueve mucho. | Zu dieser Jahreszeit regnet es viel. | n
+el rato | die Weile | Espera un rato. | Warte eine Weile. | n
+el árbol | der Baum | Descansamos debajo de un árbol. | Wir ruhen uns unter einem Baum aus. | n
+el destino | das Reiseziel; das Schicksal | ¿Cuál es tu próximo destino? | Was ist dein nächstes Ziel? | n
+el cine | das Kino | Vamos al cine. | Wir gehen ins Kino. | n
+la isla | die Insel | Una isla pequeña. | Eine kleine Insel. | n
+la televisión | das Fernsehen | No veo televisión. | Ich sehe nicht fern. | n
+la prisa | die Eile | Tengo prisa. | Ich habe es eilig. | n | In Lateinamerika auch: estoy apurado
+la mentira | die Lüge | Es mentira. | Das ist gelogen. | n
+la luna | der Mond | Hay luna llena. | Es ist Vollmond. | n
+la pared | die Wand | El enchufe está en la pared. | Die Steckdose ist an der Wand. | n
+terrible | schrecklich | El tráfico es terrible. | Der Verkehr ist schrecklich. | a
+oscuro, -a | dunkel | Ya está oscuro. | Es ist schon dunkel. | a
+amable | freundlich, nett | Muy amable, gracias. | Sehr freundlich, danke. | a
+nervioso, -a | nervös | Estoy un poco nervioso. | Ich bin ein bisschen nervös. | a
+entero, -a | ganz, vollständig | Dormí el día entero. | Ich habe den ganzen Tag geschlafen. | a
+falso, -a | falsch, unecht | Es un billete falso. | Das ist ein gefälschter Schein. | a
+inteligente | intelligent | Es muy inteligente. | Sie ist sehr intelligent. | a
+grave | ernst, schwerwiegend | No es grave. | Es ist nichts Ernstes. | a
+preocupado, -a | besorgt | Estoy preocupado. | Ich mache mir Sorgen. | a
+visitar | besuchen | Quiero visitar el glaciar. | Ich möchte den Gletscher besuchen. | v
+celebrar | feiern | Celebramos mi cumpleaños. | Wir feiern meinen Geburtstag. | v
+cenar | zu Abend essen | ¿Cenamos juntos? | Essen wir zusammen zu Abend? | v
+discutir | diskutieren, streiten | No quiero discutir. | Ich möchte nicht streiten. | v
+pegar | kleben; schlagen | El sol pega fuerte. | Die Sonne knallt. | v
+oler | riechen | Huele muy bien. | Es riecht sehr gut. | v
+apoyar | unterstützen | Gracias por apoyarme. | Danke, dass du mich unterstützt. | v
+superar | überwinden, übertreffen | Superé mi miedo. | Ich habe meine Angst überwunden. | v
+despedirse | sich verabschieden | Me despido, hasta luego. | Ich verabschiede mich, bis später. | v
+enterarse | erfahren, mitbekommen | No me enteré. | Ich habe es nicht mitbekommen. | v
+besar | küssen | Se besaron. | Sie haben sich geküsst. | v
+engañar | betrügen, täuschen | No me engañes. | Betrüg mich nicht. | v
+calmarse | sich beruhigen | Cálmate. | Beruhig dich. | v

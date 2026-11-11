@@ -1,0 +1,13 @@
+{
+  "name": "spanisch-lernzentrale",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web-App zum Spanischlernen: Tagesplan, Karteikarten, Grammatik",
+  "scripts": {
+    "build": "node tools/build.js",
+    "test": "node test/run.js"
+  },
+  "dependencies": {
+    "ts-fsrs": "^5.4.2"
+  }
+}

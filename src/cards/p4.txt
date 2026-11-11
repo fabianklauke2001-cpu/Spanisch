@@ -1,0 +1,82 @@
+#deck d17 | Smalltalk & Meinung | 3
+creo que … | ich glaube, dass … | Creo que tienes razón. | Ich glaube, du hast recht. | p
+me parece que … | ich finde, dass … | Me parece que es muy caro. | Ich finde, das ist sehr teuer. | p
+estoy de acuerdo | ich stimme zu | | | p
+tienes razón | du hast recht | | | p
+depende | kommt darauf an | Depende del clima. | Kommt aufs Wetter an. | p
+por supuesto | selbstverständlich | | | p
+¿en serio? | im Ernst?, echt? | | | p
+¡qué bueno! | wie schön!, super! | | | p
+¡qué lástima! | wie schade! | | | p
+¡qué chévere! | wie cool! | | | p | Kolumbien, Venezuela, Karibik; in Mexiko: ¡qué padre!
+me da igual | ist mir egal | | | p
+¿qué opinas? | was meinst du? | | | p
+¿qué te parece? | was hältst du davon? | ¿Qué te parece si vamos mañana? | Was hältst du davon, wenn wir morgen gehen? | p
+¿te gusta …? | magst du …?, gefällt dir …? | ¿Te gusta Argentina? | Gefällt dir Argentinien? | p
+¿qué haces en tu tiempo libre? | was machst du in deiner Freizeit? | | | p
+¿cuánto tiempo llevas aquí? | wie lange bist du schon hier? | | | p
+llevo dos semanas viajando | ich reise seit zwei Wochen | | | p
+¿adónde vas después? | wohin gehst du danach? | | | p
+¿has estado en …? | warst du schon mal in …? | ¿Has estado en Patagonia? | Warst du schon mal in Patagonien? | p
+vale la pena | es lohnt sich | El glaciar vale la pena. | Der Gletscher lohnt sich. | p
+tengo ganas de … | ich habe Lust auf …, Lust zu … | Tengo ganas de surfear. | Ich habe Lust zu surfen. | p
+¿quieres tomar algo? | möchtest du etwas trinken? | | | p
+¡vamos! | los geht's!, gehen wir! | | | p
+la verdad es que … | ehrlich gesagt … | La verdad es que no sé. | Ehrlich gesagt weiß ich es nicht. | p
+o sea | also, das heißt (Füllwort) | O sea, ¿no vienes? | Also, du kommst nicht? | p
+bueno … | na ja …, also … (Füllwort) | Bueno, vamos a ver. | Na ja, mal sehen. | p
+pues | also, na ja (Füllwort) | Pues no sé. | Na ja, weiß ich nicht. | o
+a ver | mal sehen | A ver qué pasa. | Mal sehen, was passiert. | p
+es que … | es ist so, dass … | Es que no tengo tiempo. | Es ist so, dass ich keine Zeit habe. | p
+ni idea | keine Ahnung | | | p
+ojalá | hoffentlich | ¡Ojalá haya olas mañana! | Hoffentlich gibt es morgen Wellen! | o | Danach folgt der Subjuntivo
+por cierto | übrigens | Por cierto, ¿cómo te llamas? | Übrigens, wie heißt du? | p
+de todos modos | jedenfalls, trotzdem | Gracias de todos modos. | Trotzdem danke. | p
+sin embargo | jedoch, trotzdem | | | p
+por eso | deshalb | Llueve, por eso me quedo. | Es regnet, deshalb bleibe ich. | p
+en realidad | eigentlich, in Wirklichkeit | En realidad soy de Múnich. | Eigentlich komme ich aus München. | p
+al final | am Ende, schließlich | Al final no fuimos. | Am Ende sind wir nicht gegangen. | p
+me alegro | das freut mich | | | p
+¡buena suerte! | viel Glück! | | | p
+¡cuídate! | pass auf dich auf! | | | p
+¿me das tu número? | gibst du mir deine Nummer? | | | p
+
+#deck d19 | Argentinien | 4
+vos | du (statt tú) | ¿Y vos? | Und du? | o | Eigene Verbformen: vos tenés, vos querés, vos sos
+¿de dónde sos? | woher kommst du? | | | p
+¿cómo andás? | wie geht's dir? | | | p
+¿todo bien? | alles gut? | | | p
+che | hey, du (Anrede) | Che, ¿vamos? | Hey, gehen wir? | o
+dale | okay, los, mach | —¿Vamos al lago? —Dale. | – Gehen wir zum See? – Okay. | o
+¡qué copado! | wie cool! | | | p
+re | sehr, total (Verstärkung) | Está re lindo. | Es ist total schön. | o
+bárbaro | super, großartig | —Nos vemos a las ocho. —¡Bárbaro! | – Wir sehen uns um acht. – Super! | o
+buenísimo | sehr gut, super | ¡Buenísimo! | Super! | a
+¿viste? | weißt du?, siehst du? (Füllwort) | | | p
+mirá | schau mal | Mirá, allá está el glaciar. | Schau mal, dort ist der Gletscher. | o
+acá | hier | Vení acá. | Komm her. | o
+el micro | der Fernbus | El micro a Bariloche sale a las diez. | Der Fernbus nach Bariloche fährt um zehn. | n
+el colectivo | der Stadtbus | Tomamos el colectivo. | Wir nehmen den Stadtbus. | n | Umgangssprachlich: el bondi
+el subte | die U-Bahn (Buenos Aires) | Vamos en subte. | Wir fahren mit der U-Bahn. | n
+el pasaje | das Ticket, die Fahrkarte | Compré el pasaje a El Chaltén. | Ich habe das Ticket nach El Chaltén gekauft. | n
+la boletería | der Ticketschalter | La boletería está en la terminal. | Der Schalter ist im Busbahnhof. | n
+la ruta | die Landstraße, die Route | Viajamos por la Ruta 40. | Wir fahren die Ruta 40 entlang. | n
+la nafta | das Benzin | Hay que cargar nafta. | Wir müssen tanken. | n
+la palta | die Avocado | Tostadas con palta. | Toast mit Avocado. | n
+la frutilla | die Erdbeere | Helado de frutilla. | Erdbeereis. | n
+el choclo | der Mais, der Maiskolben | Empanada de choclo. | Mais-Empanada. | n
+la remera | das T-Shirt | Me compré una remera. | Ich habe mir ein T-Shirt gekauft. | n
+la campera | die Jacke | Llevá campera, hace frío. | Nimm eine Jacke mit, es ist kalt. | n
+las zapatillas | die Turnschuhe | Mis zapatillas están mojadas. | Meine Turnschuhe sind nass. | n
+el mate | der Mate-Tee | ¿Tomás mate? | Trinkst du Mate? | n
+el asado | das Grillen, das Grillfleisch | El domingo hay asado. | Am Sonntag wird gegrillt. | n
+la parrilla | der Grill; das Grillrestaurant | Cenamos en una parrilla. | Wir essen in einem Grillrestaurant zu Abend. | n
+las facturas | das süße Gebäck | Mate con facturas. | Mate mit Gebäck. | n | Sonst heißt la factura «Rechnung»
+el boliche | der Club, die Disco | Salimos a un boliche. | Wir gehen in einen Club. | n
+el laburo | die Arbeit (umgangssprachlich) | Tengo mucho laburo. | Ich habe viel Arbeit. | n | Dazu das Verb laburar
+la plata | das Geld | No tengo plata. | Ich habe kein Geld. | n
+el pibe, la piba | der Junge, das Mädchen (umgangssprachlich) | Es un buen pibe. | Er ist ein guter Kerl. | n
+la birra | das Bier (umgangssprachlich) | ¿Tomamos una birra? | Trinken wir ein Bier? | n
+el quilombo | das Chaos (umgangssprachlich) | ¡Qué quilombo! | Was für ein Chaos! | n
+ojo | Achtung, pass auf | Ojo con el viento. | Achtung vor dem Wind. | o
+el alfajor | das Alfajor (gefüllter Doppelkeks) | Un alfajor de dulce de leche. | Ein Alfajor mit Dulce de Leche. | n

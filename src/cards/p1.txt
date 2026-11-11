@@ -1,0 +1,274 @@
+#deck d01 | Begrüßen & Kennenlernen | 1
+buenos días | guten Morgen | Buenos días, ¿cómo está? | Guten Morgen, wie geht es Ihnen? | p
+buenas tardes | guten Tag (ab mittags) | | | p
+buenas noches | guten Abend, gute Nacht | | | p
+¿cómo estás? | wie geht es dir? | Hola, Ana, ¿cómo estás? | Hallo Ana, wie geht's dir? | p
+¿qué tal? | wie geht's?, wie läuft's? | ¿Qué tal el viaje? | Wie war die Reise? | p
+muy bien, ¿y tú? | sehr gut, und dir? | | | p
+más o menos | so lala, es geht | | | p
+¿cómo te llamas? | wie heißt du? | | | p
+me llamo Fabian | ich heiße Fabian | | | p
+mucho gusto | freut mich (beim Kennenlernen) | Mucho gusto, soy Fabian. | Freut mich, ich bin Fabian. | p
+igualmente | gleichfalls, ebenso | —Mucho gusto. —Igualmente. | – Freut mich. – Gleichfalls. | p
+¿de dónde eres? | woher kommst du? | | | p
+soy de Alemania | ich komme aus Deutschland | Soy de Alemania, de Múnich. | Ich komme aus Deutschland, aus München. | p
+soy alemán | ich bin Deutscher | | | p | Frauen sagen: soy alemana
+¿a qué te dedicas? | was machst du beruflich? | | | p
+de nada | gern geschehen, bitte | —Gracias. —De nada. | – Danke. – Gern geschehen. | p
+muchas gracias | vielen Dank | | | p
+perdón | Entschuldigung, Verzeihung | Perdón, ¿dónde está el baño? | Entschuldigung, wo ist die Toilette? | p
+disculpa | entschuldige (jemanden ansprechen) | Disculpa, ¿tienes hora? | Entschuldige, weißt du, wie spät es ist? | p | Höflich (Sie): disculpe
+lo siento | es tut mir leid | Lo siento, llego tarde. | Tut mir leid, ich bin spät dran. | p
+no pasa nada | macht nichts, kein Problem | | | p
+claro | klar, natürlich | —¿Me ayudas? —¡Claro! | – Hilfst du mir? – Klar! | p
+está bien | in Ordnung, okay | | | p
+no entiendo | ich verstehe nicht | Perdón, no entiendo. | Entschuldigung, ich verstehe nicht. | p
+¿puedes repetir, por favor? | kannst du das bitte wiederholen? | | | p
+más despacio, por favor | langsamer, bitte | ¿Puedes hablar más despacio, por favor? | Kannst du bitte langsamer sprechen? | p
+¿cómo se dice … en español? | wie sagt man … auf Spanisch? | ¿Cómo se dice «Rucksack» en español? | Wie sagt man „Rucksack“ auf Spanisch? | p
+¿qué significa …? | was bedeutet …? | ¿Qué significa «chévere»? | Was bedeutet „chévere“? | p
+hablo un poco de español | ich spreche ein bisschen Spanisch | | | p
+estoy aprendiendo español | ich lerne gerade Spanisch | | | p
+¿hablas inglés? | sprichst du Englisch? | | | p
+hasta luego | bis später, tschüss | | | p
+hasta mañana | bis morgen | | | p
+nos vemos | wir sehen uns, bis dann | ¡Nos vemos mañana! | Wir sehen uns morgen! | p
+chao | tschüss | | | p | In Argentinien: chau
+que te vaya bien | mach's gut, alles Gute | | | p
+buen viaje | gute Reise | | | p
+bienvenido | willkommen | ¡Bienvenido a Costa Rica! | Willkommen in Costa Rica! | p | An eine Frau: bienvenida
+salud | Prost; Gesundheit | | | p
+con permiso | darf ich mal? (beim Vorbeigehen) | | | p
+
+#deck d02 | Kernverben 1 | 1
+ser | sein (Eigenschaft, Herkunft, Beruf) | Soy de Alemania. | Ich komme aus Deutschland. | v
+estar | sein (Ort, Zustand) | Estoy en la playa. | Ich bin am Strand. | v
+tener | haben | Tengo veinticinco años. | Ich bin fünfundzwanzig Jahre alt. | v
+haber | haben (Hilfsverb); hay = es gibt | Hay un cajero cerca. | Es gibt einen Geldautomaten in der Nähe. | v
+ir | gehen, fahren | Voy a la playa. | Ich gehe zum Strand. | v
+hacer | machen, tun | ¿Qué haces hoy? | Was machst du heute? | v
+poder | können | ¿Puedes ayudarme? | Kannst du mir helfen? | v
+querer | wollen; lieben | Quiero un café. | Ich möchte einen Kaffee. | v
+decir | sagen | ¿Qué dices? | Was sagst du? | v
+ver | sehen | No veo nada. | Ich sehe nichts. | v
+dar | geben | ¿Me das la llave? | Gibst du mir den Schlüssel? | v
+saber | wissen; können (Gelerntes) | No sé. | Ich weiß nicht. | v
+venir | kommen | ¿Vienes con nosotros? | Kommst du mit uns? | v
+poner | setzen, stellen, legen | Pongo la mochila aquí. | Ich stelle den Rucksack hierhin. | v
+salir | hinausgehen, abfahren, ausgehen | El bus sale a las ocho. | Der Bus fährt um acht ab. | v
+llegar | ankommen | Llegamos mañana. | Wir kommen morgen an. | v
+hablar | sprechen, reden | Hablo un poco de español. | Ich spreche ein bisschen Spanisch. | v
+vivir | leben, wohnen | Vivo en Múnich. | Ich wohne in München. | v
+trabajar | arbeiten | Trabajo en una empresa. | Ich arbeite in einer Firma. | v
+necesitar | brauchen | Necesito ayuda. | Ich brauche Hilfe. | v
+tomar | nehmen; trinken | ¿Tomamos una cerveza? | Trinken wir ein Bier? | v
+comer | essen | ¿Dónde comemos hoy? | Wo essen wir heute? | v
+beber | trinken | Bebo mucha agua. | Ich trinke viel Wasser. | v | In Lateinamerika sagt man meist tomar
+comprar | kaufen | Quiero comprar un boleto. | Ich möchte ein Ticket kaufen. | v
+pagar | bezahlen | ¿Puedo pagar con tarjeta? | Kann ich mit Karte zahlen? | v
+buscar | suchen | Busco un hostal barato. | Ich suche ein günstiges Hostel. | v
+encontrar | finden | No encuentro mi llave. | Ich finde meinen Schlüssel nicht. | v
+esperar | warten; hoffen | Espero el bus. | Ich warte auf den Bus. | v
+llamar | rufen, anrufen | Te llamo mañana. | Ich rufe dich morgen an. | v
+entender | verstehen | No entiendo la pregunta. | Ich verstehe die Frage nicht. | v
+pensar | denken | Pienso que es una buena idea. | Ich denke, das ist eine gute Idee. | v
+creer | glauben | Creo que sí. | Ich glaube schon. | v
+conocer | kennen, kennenlernen | ¿Conoces Patagonia? | Kennst du Patagonien? | v
+gustar | gefallen | Me gusta este lugar. | Dieser Ort gefällt mir. | v | Mit me/te/le: me gusta (eine Sache), me gustan (mehrere)
+pasar | vorbeigehen; verbringen; passieren | ¿Qué pasa? | Was ist los? | v
+quedar | liegen (Ort); übrig sein; sich verabreden | ¿Dónde queda la terminal? | Wo liegt der Busbahnhof? | v
+llevar | tragen, mitnehmen, bringen | Llevo una chaqueta. | Ich nehme eine Jacke mit. | v
+dejar | lassen, zurücklassen | ¿Puedo dejar mi mochila aquí? | Kann ich meinen Rucksack hier lassen? | v
+mirar | anschauen | ¡Mira eso! | Schau dir das an! | v
+escuchar | hören, zuhören | Escucho música. | Ich höre Musik. | v
+preguntar | fragen | Voy a preguntar en la recepción. | Ich frage an der Rezeption. | v
+viajar | reisen | Viajo por Sudamérica. | Ich reise durch Südamerika. | v
+
+#deck d03 | Kleine Wörter | 1
+pero | aber | Es caro, pero bueno. | Es ist teuer, aber gut. | o
+porque | weil | No voy porque estoy cansado. | Ich gehe nicht, weil ich müde bin. | o
+¿por qué? | warum? | ¿Por qué no vienes? | Warum kommst du nicht? | o
+también | auch | Yo también. | Ich auch. | o
+tampoco | auch nicht | Yo tampoco. | Ich auch nicht. | o
+todavía | noch | Todavía no. | Noch nicht. | o
+ya | schon; jetzt | Ya está. | Fertig, das war's. | o
+siempre | immer | Siempre llego tarde. | Ich komme immer zu spät. | o
+nunca | nie | Nunca he estado en Argentina. | Ich war noch nie in Argentinien. | o
+a veces | manchmal | A veces cocino. | Manchmal koche ich. | o
+muy | sehr | Está muy lejos. | Es ist sehr weit weg. | o
+mucho | viel | Hay mucha gente. | Es sind viele Leute da. | o | Passt sich an: mucho, mucha, muchos, muchas
+poco | wenig | Tengo poco tiempo. | Ich habe wenig Zeit. | o
+un poco | ein bisschen | Un poco más, por favor. | Ein bisschen mehr, bitte. | o
+más | mehr | ¿Quieres más? | Möchtest du mehr? | o
+menos | weniger | Menos mal. | Zum Glück. | o
+aquí | hier | Aquí estoy. | Hier bin ich. | o | In Lateinamerika oft acá
+allí | dort | El baño está allí. | Die Toilette ist dort. | o | Auch: allá, ahí
+ahora | jetzt | Ahora no puedo. | Jetzt kann ich nicht. | o
+hoy | heute | Hoy hace calor. | Heute ist es heiß. | o
+mañana | morgen | Mañana vamos al mercado. | Morgen gehen wir zum Markt. | o | la mañana = der Morgen
+ayer | gestern | Ayer llegué a San José. | Gestern bin ich in San José angekommen. | o
+antes | vorher, früher | Antes de comer. | Vor dem Essen. | o
+después | danach, später | Después de la clase. | Nach dem Unterricht. | o
+luego | dann, später | Primero comemos, luego salimos. | Erst essen wir, dann gehen wir raus. | o
+entonces | dann, also | Entonces, ¿vamos? | Also, gehen wir? | o
+casi | fast | Casi siempre. | Fast immer. | o
+solo | nur; allein | Solo un momento. | Nur einen Moment. | o
+con | mit | Café con leche. | Kaffee mit Milch. | o
+sin | ohne | Sin azúcar, por favor. | Ohne Zucker, bitte. | o
+para | für; um zu | Es para ti. | Das ist für dich. | o
+por | durch, wegen, pro | Gracias por todo. | Danke für alles. | o
+desde | seit; von … aus | Estoy aquí desde ayer. | Ich bin seit gestern hier. | o
+hasta | bis | Abierto hasta las diez. | Geöffnet bis zehn. | o
+entre | zwischen | Entre las dos y las tres. | Zwischen zwei und drei Uhr. | o
+sobre | über; auf | Un libro sobre Argentina. | Ein Buch über Argentinien. | o
+algo | etwas | ¿Quieres algo? | Möchtest du etwas? | o
+nada | nichts | No quiero nada. | Ich möchte nichts. | o
+alguien | jemand | ¿Hay alguien aquí? | Ist hier jemand? | o
+nadie | niemand | No hay nadie. | Es ist niemand da. | o
+todo | alles; ganz | Todo bien. | Alles gut. | o
+otro | ein anderer, noch ein | Otra cerveza, por favor. | Noch ein Bier, bitte. | o | Ohne un/una: otro café (nicht «un otro»)
+mismo | derselbe, gleich | Es lo mismo. | Das ist dasselbe. | o
+cada | jede, jeder, jedes | Cada día. | Jeden Tag. | o
+tal vez | vielleicht | Tal vez mañana. | Vielleicht morgen. | o | Auch: quizás
+además | außerdem | Además, es barato. | Außerdem ist es günstig. | o
+aunque | obwohl | Voy aunque llueve. | Ich gehe, obwohl es regnet. | o
+si | wenn, falls; ob | Si quieres, vamos. | Wenn du willst, gehen wir. | o
+cuando | wenn, als | Cuando llueve, me quedo en casa. | Wenn es regnet, bleibe ich zu Hause. | o
+mientras | während | Leo mientras espero. | Ich lese, während ich warte. | o
+bastante | ziemlich; genug | Está bastante lejos. | Es ist ziemlich weit. | o
+demasiado | zu, zu viel | Es demasiado caro. | Das ist zu teuer. | o
+pronto | bald | ¡Hasta pronto! | Bis bald! | o
+así | so | Así es. | So ist es. | o
+
+#deck d04 | Menschen & Alltag | 1
+la gente | die Leute | La gente aquí es muy amable. | Die Leute hier sind sehr nett. | n | Im Spanischen Singular: la gente es …
+el amigo, la amiga | der Freund, die Freundin (befreundet) | Viajo con un amigo. | Ich reise mit einem Freund. | n
+la familia | die Familie | Mi familia vive en Alemania. | Meine Familie lebt in Deutschland. | n
+los padres | die Eltern | Mis padres están bien. | Meinen Eltern geht es gut. | n
+el hermano, la hermana | der Bruder, die Schwester | Tengo una hermana. | Ich habe eine Schwester. | n
+el hijo, la hija | der Sohn, die Tochter | ¿Tienes hijos? | Hast du Kinder? | n
+la pareja | der Partner, die Partnerin; das Paar | Viajo sin pareja. | Ich reise ohne Partner. | n
+el novio, la novia | der feste Freund, die feste Freundin | ¿Tienes novia? | Hast du eine Freundin? | n
+el hombre | der Mann | Ese hombre es el guía. | Dieser Mann ist der Guide. | n
+la mujer | die Frau | La mujer de la recepción. | Die Frau von der Rezeption. | n
+el niño, la niña | das Kind (Junge, Mädchen) | Los niños juegan en la playa. | Die Kinder spielen am Strand. | n
+el chico, la chica | der Junge, das Mädchen | Los chicos del hostal. | Die Jungs aus dem Hostel. | n
+el nombre | der Name, der Vorname | ¿Cuál es tu nombre? | Wie ist dein Name? | n
+el apellido | der Nachname | Mi apellido es alemán. | Mein Nachname ist deutsch. | n
+la edad | das Alter | ¿Qué edad tienes? | Wie alt bist du? | n
+el trabajo | die Arbeit | Me gusta mi trabajo. | Ich mag meine Arbeit. | n
+el país | das Land | ¿De qué país eres? | Aus welchem Land kommst du? | n
+la ciudad | die Stadt | Es una ciudad grande. | Es ist eine große Stadt. | n
+el pueblo | das Dorf; das Volk | Un pueblo pequeño. | Ein kleines Dorf. | n
+la casa | das Haus, das Zuhause | Estoy en casa. | Ich bin zu Hause. | n
+la calle | die Straße | ¿Cómo se llama esta calle? | Wie heißt diese Straße? | n
+el día | der Tag | ¡Buen día! | Schönen Tag! | n | Achtung: el día, obwohl es auf -a endet
+la noche | die Nacht, der Abend | Esta noche salimos. | Heute Abend gehen wir aus. | n
+la mañana | der Morgen, der Vormittag | Por la mañana hago surf. | Morgens surfe ich. | n
+la tarde | der Nachmittag | Nos vemos por la tarde. | Wir sehen uns am Nachmittag. | n
+la semana | die Woche | Me quedo una semana. | Ich bleibe eine Woche. | n
+el mes | der Monat | Viajo dos meses. | Ich reise zwei Monate. | n
+el año | das Jahr | El año pasado. | Letztes Jahr. | n
+la hora | die Stunde; die Uhrzeit | ¿Qué hora es? | Wie spät ist es? | n
+el tiempo | die Zeit; das Wetter | No tengo tiempo. | Ich habe keine Zeit. | n
+la vida | das Leben | Así es la vida. | So ist das Leben. | n
+la cosa | die Sache, das Ding | ¿Qué es esa cosa? | Was ist das für ein Ding? | n
+el lugar | der Ort, der Platz | Es un lugar muy bonito. | Es ist ein sehr schöner Ort. | n
+la vez | das Mal | Una vez, dos veces. | Einmal, zweimal. | n
+la persona | die Person | Una mesa para dos personas. | Ein Tisch für zwei Personen. | n
+el idioma | die Sprache | ¿Qué idiomas hablas? | Welche Sprachen sprichst du? | n | Achtung: el idioma (männlich)
+la palabra | das Wort | No conozco esa palabra. | Ich kenne dieses Wort nicht. | n
+la pregunta | die Frage | Tengo una pregunta. | Ich habe eine Frage. | n
+la respuesta | die Antwort | No sé la respuesta. | Ich weiß die Antwort nicht. | n
+el problema | das Problem | No hay problema. | Kein Problem. | n | Achtung: el problema (männlich)
+la verdad | die Wahrheit | ¿De verdad? | Wirklich? | n
+la idea | die Idee | ¡Buena idea! | Gute Idee! | n
+el viaje | die Reise | El viaje dura seis horas. | Die Fahrt dauert sechs Stunden. | n
+
+#deck d05 | Unterkunft | 1
+el hostal | das Hostel | El hostal está cerca de la playa. | Das Hostel liegt in Strandnähe. | n
+la habitación | das Zimmer | Una habitación para dos noches. | Ein Zimmer für zwei Nächte. | n
+la habitación compartida | das Mehrbettzimmer | Una cama en habitación compartida. | Ein Bett im Mehrbettzimmer. | n
+la cama | das Bett | La cama es cómoda. | Das Bett ist bequem. | n
+la reserva | die Reservierung | Tengo una reserva a nombre de Fabian. | Ich habe eine Reservierung auf den Namen Fabian. | n
+la llave | der Schlüssel | Perdí la llave. | Ich habe den Schlüssel verloren. | n
+el baño | das Bad, die Toilette | ¿Dónde está el baño? | Wo ist die Toilette? | n
+la ducha | die Dusche | La ducha no tiene agua caliente. | Die Dusche hat kein warmes Wasser. | n
+la toalla | das Handtuch | ¿Me da una toalla? | Geben Sie mir ein Handtuch? | n
+la sábana | das Bettlaken | Las sábanas están limpias. | Die Laken sind sauber. | n
+la almohada | das Kopfkissen | Necesito otra almohada. | Ich brauche noch ein Kissen. | n
+la cobija | die Decke | ¿Tiene otra cobija? | Haben Sie noch eine Decke? | n | Auch: la manta; in Argentinien la frazada
+la cocina | die Küche | Hay una cocina compartida. | Es gibt eine Gemeinschaftsküche. | n
+el desayuno | das Frühstück | El desayuno es a las ocho. | Frühstück gibt es um acht. | n
+la recepción | die Rezeption | Pregunta en la recepción. | Frag an der Rezeption. | n
+el piso | das Stockwerk; der Boden | Estoy en el segundo piso. | Ich bin im zweiten Stock. | n
+la escalera | die Treppe | Sube por la escalera. | Geh die Treppe hoch. | n
+la ventana | das Fenster | ¿Puedo abrir la ventana? | Darf ich das Fenster öffnen? | n
+la puerta | die Tür | Cierra la puerta, por favor. | Mach bitte die Tür zu. | n
+la luz | das Licht; der Strom | No hay luz. | Es gibt keinen Strom. | n
+el enchufe | die Steckdose | ¿Dónde hay un enchufe? | Wo gibt es eine Steckdose? | n
+la contraseña | das Passwort | ¿Cuál es la contraseña del wifi? | Wie lautet das WLAN-Passwort? | n
+el aire acondicionado | die Klimaanlage | El aire acondicionado no funciona. | Die Klimaanlage funktioniert nicht. | n
+el ventilador | der Ventilator | La habitación tiene ventilador. | Das Zimmer hat einen Ventilator. | n
+el agua caliente | das warme Wasser | ¿Hay agua caliente? | Gibt es warmes Wasser? | n | agua ist weiblich, bekommt aber el: el agua fría
+el ruido | der Lärm | Hay mucho ruido en la calle. | Auf der Straße ist viel Lärm. | n
+el casillero | das Schließfach | Guardo mis cosas en el casillero. | Ich schließe meine Sachen ins Schließfach. | n
+el candado | das Vorhängeschloss | ¿Venden candados? | Verkaufen Sie Vorhängeschlösser? | n
+la lavandería | die Wäscherei | ¿Hay una lavandería cerca? | Gibt es eine Wäscherei in der Nähe? | n
+el huésped | der Gast (in der Unterkunft) | Solo para huéspedes. | Nur für Gäste. | n
+tengo una reserva | ich habe eine Reservierung | | | p
+¿hay habitaciones libres? | gibt es freie Zimmer? | | | p
+¿cuánto cuesta la noche? | was kostet die Nacht? | | | p
+¿está incluido el desayuno? | ist das Frühstück inklusive? | | | p
+¿a qué hora es el check-out? | wann ist der Check-out? | | | p
+quisiera quedarme una noche más | ich würde gern eine Nacht länger bleiben | | | p
+
+#deck d06 | Eigenschaften | 1
+bueno, -a | gut | Es un buen hostal. | Es ist ein gutes Hostel. | a | Vor männlichem Nomen: buen
+malo, -a | schlecht | Hace mal tiempo. | Das Wetter ist schlecht. | a | Vor männlichem Nomen: mal
+grande | groß | Una ciudad grande. | Eine große Stadt. | a | Vor dem Nomen: gran (una gran idea)
+pequeño, -a | klein | Un pueblo pequeño. | Ein kleines Dorf. | a
+nuevo, -a | neu | Tengo una tabla nueva. | Ich habe ein neues Brett. | a
+viejo, -a | alt | Un bus viejo. | Ein alter Bus. | a
+joven | jung | Es muy joven. | Er ist sehr jung. | a
+bonito, -a | schön, hübsch | ¡Qué bonito! | Wie schön! | a | In Lateinamerika oft lindo
+feo, -a | hässlich | El clima está feo. | Das Wetter ist mies. | a
+fácil | leicht, einfach | Es fácil. | Das ist einfach. | a
+difícil | schwierig | El español no es difícil. | Spanisch ist nicht schwer. | a
+caro, -a | teuer | Es muy caro. | Das ist sehr teuer. | a
+barato, -a | günstig, billig | ¿Hay algo más barato? | Gibt es etwas Günstigeres? | a
+rápido, -a | schnell | El bus rápido. | Der Schnellbus. | a
+lento, -a | langsam | El wifi está lento. | Das WLAN ist langsam. | a
+caliente | heiß, warm | La sopa está caliente. | Die Suppe ist heiß. | a
+frío, -a | kalt | El agua está fría. | Das Wasser ist kalt. | a
+cerca | nah, in der Nähe | El hostal está cerca. | Das Hostel ist in der Nähe. | o
+lejos | weit weg | ¿Está lejos? | Ist es weit? | o
+abierto, -a | geöffnet, offen | ¿Está abierto? | Ist geöffnet? | a
+cerrado, -a | geschlossen | El museo está cerrado. | Das Museum ist geschlossen. | a
+lleno, -a | voll | El bus está lleno. | Der Bus ist voll. | a
+vacío, -a | leer | La playa está vacía. | Der Strand ist leer. | a
+limpio, -a | sauber | El baño está limpio. | Das Bad ist sauber. | a
+sucio, -a | schmutzig | Mi ropa está sucia. | Meine Kleidung ist schmutzig. | a
+tranquilo, -a | ruhig | Un lugar tranquilo. | Ein ruhiger Ort. | a
+cansado, -a | müde | Estoy cansado. | Ich bin müde. | a
+contento, -a | zufrieden, froh | Estoy muy contento. | Ich bin sehr zufrieden. | a
+feliz | glücklich | ¡Feliz cumpleaños! | Alles Gute zum Geburtstag! | a
+triste | traurig | No estés triste. | Sei nicht traurig. | a
+enfermo, -a | krank | Estoy enfermo. | Ich bin krank. | a
+listo, -a | fertig, bereit; schlau | ¿Estás listo? | Bist du fertig? | a | estar listo = fertig sein, ser listo = schlau sein
+seguro, -a | sicher | ¿Es seguro caminar de noche? | Ist es sicher, nachts zu Fuß zu gehen? | a
+peligroso, -a | gefährlich | Es peligroso nadar aquí. | Es ist gefährlich, hier zu schwimmen. | a
+importante | wichtig | Es muy importante. | Das ist sehr wichtig. | a
+posible | möglich | ¿Es posible cambiar la fecha? | Ist es möglich, das Datum zu ändern? | a
+libre | frei | ¿Está libre este asiento? | Ist dieser Platz frei? | a
+ocupado, -a | besetzt; beschäftigt | El baño está ocupado. | Die Toilette ist besetzt. | a
+mejor | besser | Hoy me siento mejor. | Heute fühle ich mich besser. | a
+peor | schlechter | El tiempo está peor. | Das Wetter ist schlechter. | a
+diferente | anders, verschieden | Es muy diferente. | Das ist ganz anders. | a
+largo, -a | lang | Un viaje largo. | Eine lange Reise. | a | Nicht «groß»: das ist grande
+corto, -a | kurz | Un camino corto. | Ein kurzer Weg. | a
+alto, -a | hoch; groß (Person) | La montaña es muy alta. | Der Berg ist sehr hoch. | a
+bajo, -a | niedrig; klein (Person) | La marea está baja. | Es ist Ebbe. | a
+rico, -a | lecker; reich | ¡Qué rico! | Wie lecker! | a
+increíble | unglaublich | La vista es increíble. | Die Aussicht ist unglaublich. | a
+gratis | kostenlos | El wifi es gratis. | Das WLAN ist kostenlos. | a
