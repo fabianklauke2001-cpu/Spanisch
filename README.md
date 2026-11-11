@@ -22,7 +22,10 @@ Die App läuft komplett im Browser, auch ohne Internet. Der Lernstand liegt nur 
 2. Nur wenn Karten oder Verben geändert wurden: `python3 tools/build_data.py` (braucht das Python-Paket `verbecc`). Das erzeugt `build/cards.json` und `build/conj.json` neu.
 3. `npm install` (einmalig), dann `node tools/build.js`. Das schreibt `docs/` neu.
 4. `node test/run.js` und `python3 test/browser_pwa.py` (braucht Playwright und Chrome).
-5. Änderungen committen und pushen. GitHub Pages liefert den Ordner `docs/` des Zweigs `main` aus.
+5. Änderungen committen und nach `main` pushen.
+6. Veröffentlichen: `git subtree push --prefix docs origin gh-pages`. GitHub Pages liefert den Zweig `gh-pages` aus, der nur den Inhalt von `docs/` enthält.
+
+Adresse der App: https://fabianklauke2001-cpu.github.io/Spanisch/
 
 Geräte mit installierter App holen die neue Version im Hintergrund und zeigen sie beim übernächsten Start. Der Lernstand bleibt dabei erhalten.
 

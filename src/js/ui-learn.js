@@ -32,7 +32,11 @@ TABS.heute = function () {
   return h;
 };
 // iPhone: Nur die App auf dem Home-Bildschirm speichert dauerhaft und hat einen eigenen Speicher. Deshalb erst installieren, dann lernen.
+const APP_URL = 'https://fabianklauke2001-cpu.github.io/Spanisch/';
 function installHint() {
+  // Die Artifact-Fassung in Claude speichert nicht verlässlich: dort auf die eigenständige App verweisen
+  if (BUILD === 'artifact') return '<section class="card warnbox"><h2>Bitte die neue App nutzen</h2><p class="small">Diese Fassung in Claude speichert Deinen Fortschritt nicht verlässlich. Die neue App läuft ohne Claude und auch ohne Internet.</p>' +
+    link('Neue App öffnen', APP_URL, 'Am iPhone in Safari öffnen, dann zum Home-Bildschirm hinzufügen') + '</section>';
   if (!Device.needsInstall()) return '';
   return '<section class="card warnbox"><h2>Erst zum Home-Bildschirm hinzufügen</h2>' +
     '<ol class="steps"><li>Tipp in Safari auf das <b>Teilen-Symbol</b> (Quadrat mit Pfeil nach oben).</li><li>Wähl <b>Zum Home-Bildschirm</b> und bestätige.</li><li>Öffne die App ab jetzt immer über das neue Icon.</li></ol>' +
@@ -52,7 +56,7 @@ function onboarding() {
     return '<section class="onb"><p class="eyebrow">Rumbo Sur</p><h1>Dein Spanisch für Mittelamerika und Patagonien</h1>' + installHint() +
       '<button class="linkbtn" data-a="skipInstall">Trotzdem hier im Browser starten</button></section>';
   }
-  return '<section class="onb"><p class="eyebrow">Rumbo Sur</p><h1>Dein Spanisch für Mittelamerika und Patagonien</h1>' +
+  return '<section class="onb"><p class="eyebrow">Rumbo Sur</p><h1>Dein Spanisch für Mittelamerika und Patagonien</h1>' + (BUILD === 'artifact' ? installHint() : '') +
     '<p>Jeden Tag zeigt Dir die App, was dran ist: Karten, Grammatik, Hören, Sprechen. Sie merkt sich, was Du kannst, und passt das Tempo an.</p>' +
     '<h2>Wie viel Zeit hast Du pro Tag?</h2><div class="seg" role="group">' + [30, 45, 60].map(x => '<button data-a="setBudget" data-v="' + x + '" class="' + (b === x ? 'on' : '') + '">' + x + ' Min</button>').join('') + '</div>' +
     '<h2>Wann fliegst Du?</h2><input class="inp" type="date" id="onb-dep" value="' + esc(S.set.dep) + '">' +

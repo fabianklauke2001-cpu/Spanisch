@@ -1,6 +1,6 @@
 // Service Worker: hält die App auf dem Gerät vor, damit sie ohne Internet startet.
 // Strategie: sofort aus dem Speicher antworten und im Hintergrund die neueste Fassung holen. Eine neue Version ist beim nächsten Start aktiv.
-const VERSION = '2026-11-11.1466eb', CACHE = 'spanisch-' + VERSION, SHELL = ["./","manifest.webmanifest","icons/apple-touch-icon.png","icons/favicon-48.png","icons/icon-192.png","icons/icon-512.png","fonts/atkinson-hyperlegible-next-latin-wght-normal.woff2","fonts/fraunces-latin-wght-italic.woff2","fonts/fraunces-latin-wght-normal.woff2"];
+const VERSION = '2026-11-11.c59ca1', CACHE = 'spanisch-' + VERSION, SHELL = ["./","manifest.webmanifest","icons/apple-touch-icon.png","icons/favicon-48.png","icons/icon-192.png","icons/icon-512.png","fonts/atkinson-hyperlegible-next-latin-wght-normal.woff2","fonts/fraunces-latin-wght-italic.woff2","fonts/fraunces-latin-wght-normal.woff2"];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL.map(u => new Request(u, {cache: 'reload'})))).then(() => self.skipWaiting()));
 });
